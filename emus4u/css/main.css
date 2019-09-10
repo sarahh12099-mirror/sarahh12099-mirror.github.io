@@ -1,0 +1,287 @@
+* {
+	margin: 0;
+	padding: 0;
+	user-select: none !important;
+	-moz-user-select: none !important;
+	-khtml-user-select: none !important;
+	-webkit-user-select: none !important;
+	-webkit-touch-callout: none !important;
+	outline: none !important;
+   	box-shadow: none !important;
+}
+/* Background */
+#background {
+	z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-image: url('https://files.hollr2099.net/img/background.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+/* Stuff */
+header {
+	padding-top: 75px;
+  	padding-bottom: 80px;
+}
+h4 {
+	font-size: 17px;
+	font-weight: bold;
+	padding-top: 15px;
+}
+p {
+	font-size: 14px;
+}
+/* Desktop */
+.desktop {
+	display: block !important;
+}
+.mobile {
+	display: none !important;
+}
+/* Container */
+.container {
+	padding: 0 15px 0;
+}
+/* Navbar */
+.navbar {
+	background: rgba(241, 113, 171, 1);
+}
+.custom-toggler.navbar-toggler {
+    border-color: #000000;
+}
+.custom-toggler .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#000000' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.nav-link, .nav-link:hover {
+	color: #000000;
+}
+.dropdown-divider {
+	margin-left: -20px;
+	margin-right: -20px;
+	border-color: #000000;
+}
+.nav-item-inline {
+	margin-left: 40px;
+}
+/* Header */
+.title {
+	margin-top: 0;
+	margin-bottom: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	font-size: 60px;
+	font-weight: normal;
+	color: #000000;
+	background: rgba(241, 113, 171, .8);
+	display: inline-block;
+	border-radius: 5px;
+}
+.description {
+	padding-left: 4px;
+	padding-right: 4px;
+	font-size: 23.5px;
+	color: #0000000;
+	background: rgba(241, 113, 171, .8);
+	display: inline-block;
+	border-radius: 5px;
+}
+/* Main */
+.pagedesktop {
+	padding-left: 4px;
+	padding-right: 4px;
+	color: #000000;
+	background: rgba(241, 113, 171, .8);
+	display: inline-block !important;
+	font-weight: normal;
+	border-radius: 5px;
+	margin-top: -20px;
+}
+.pagemobile {
+	display: none !important;
+}
+/* Home - Main - Notice */
+.notice {
+	background: rgba(241, 113, 171, .8);
+	border-radius: 5px;
+}
+.noticetitle {
+	margin-left: 6px;
+	margin-bottom: 1px;
+}
+.message {
+	margin-left: 6px;
+	margin-top: 3px;
+	margin-bottom: -15px;
+}
+/* iOS IPA Library - Main */
+.ipa-section {
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+	padding-top: 13px;
+  	padding-bottom: 0;
+}
+.ipa-icon {
+	box-shadow: 0px 0px 2px #222;
+	border: 1px solid #444;
+	width: 120px;
+	height: 120px;
+	border-radius: 25px;
+}
+.ipa-download {
+    color: #feeef5 !important;
+    border: solid 1px #d2729e;
+    background: #f895c2;
+    background: -webkit-gradient(linear, left top, left bottom, from(#feb1d3), to(#f171ab));
+    background: -moz-linear-gradient(top, #feb1d3, #f171ab);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#feb1d3', endColorstr='#f171ab');
+    zoom: 1;
+    vertical-align: baseline;
+    margin: 0 2px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: 14px/100% Arial, Helvetica, sans-serif;
+    padding: .5em 2em .55em;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    -webkit-border-radius: .5em;
+    -moz-border-radius: .5em;
+    border-radius: .5em;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	margin-top: -10px;
+	width: 100%;
+}
+.btn-close {
+    color: #feeef5 !important;
+    border: solid 1px #d2729e;
+    background: #f895c2;
+    background: -webkit-gradient(linear, left top, left bottom, from(#feb1d3), to(#f171ab));
+    background: -moz-linear-gradient(top, #feb1d3, #f171ab);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#feb1d3', endColorstr='#f171ab');
+    zoom: 1;
+    vertical-align: baseline;
+    margin: 0 2px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: 14px/100% Arial, Helvetica, sans-serif;
+    padding: .5em 2em .55em;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    -webkit-border-radius: .5em;
+    -moz-border-radius: .5em;
+    border-radius: .5em;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+.close {
+	padding-left: 0 !important;
+}
+.modal-title {
+	margin-top: -15px !important;
+	padding-left: 5px;
+}
+.modal-icon {
+	box-shadow: 0px 0px 2px #222;
+	border: 1px solid #444;
+	width: 50px;
+	height: 50px;
+	border-radius: 15px;
+	margin-top: -12px !important;
+	margin-bottom: -30px !important;
+}
+.modal-download {
+	margin-top: -20px;
+}
+.modal-install {
+	margin-top: 10px;
+}
+.ipa-version {
+	margin-top: -15px;
+	margin-bottom: 15px;
+}
+@media only screen and (max-width: 800px) {
+	/* Stuff */
+	header {
+		padding-top: 75px;
+		padding-bottom: 50px;
+	}
+	b {
+		font-size: 17px;
+		font-weight: bold;
+		margin-top: 4px;
+	}
+	p {
+		font-size: 13px;
+	}
+	/* Mobile */
+	.desktop {
+		display: none !important;
+	}
+	.mobile {
+		display: block !important;
+	}
+	/* Navbar */
+	.nav-item-inline {
+		margin-left: 0;
+	}
+	/* Header */
+	.title {
+		margin-top: 0;
+		margin-bottom: 1px;
+		padding-left: 4px;
+		padding-right: 4px;
+		font-size: 45px;
+		font-weight: normal;
+		color: #000000;
+		background: rgba(241, 113, 171, .8);
+		display: inline-block;
+		border-radius: 5px;
+	}
+	.description {
+		padding-left: 4px;
+		padding-right: 4px;
+		font-size: 20px;
+		color: #0000000;
+		background: rgba(241, 113, 171, .8);
+		display: inline-block;
+		border-radius: 5px;
+	}
+	/* Main */
+	.pagedesktop {
+		display: none !important;
+	}
+	.pagemobile {
+		padding-left: 4px;
+		padding-right: 4px;
+		background: rgba(241, 113, 171, .8);
+		display: inline-block !important;
+		font-weight: normal;
+		border-radius: 5px;
+		font-size: 1.6em;
+		margin-top: 0;
+	}
+	/* iOS IPA Library - Main */
+	.ipa-icon {
+		box-shadow: 0px 0px 2px #222;
+		border: 1px solid #444;
+		width: 68px;
+		height: 68px;
+		border-radius: 25px;
+		float: left;
+		margin-top: 0;
+		margin-left: 30px;
+		margin-right: -15px;
+	}
+}
