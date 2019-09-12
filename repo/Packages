@@ -519,13 +519,13 @@ Description: Free Premium Hotspot Shield
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.2.3
+Version: 1.0.2.4
 Installed-Size: 69
 Filename: debs/HotspotShield.deb
-Size: 3570
-MD5sum: c9c909a4d810baf5b6593354c3341ec5
-SHA1: ac6b72706408fe667d7bb000de8a8797b98a39f7
-SHA256: 88f79fe75e4532a307afc5a2c8b56c88b219a47dd847fec671375f38050b8d00
+Size: 3738
+MD5sum: e56b263bdd235eccb1896882ba31eb52
+SHA1: 98066a4a70d7d265159bd2e71337f40bb3361264
+SHA256: 3cf53f0eef6bc56e82a758b89d6a7eb91aaae6ed015855209a2578e749773bb1
 
 Package: net.hollr2099.infuse5pp
 Name: Infuse 5++
