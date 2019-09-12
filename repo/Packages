@@ -1151,3 +1151,99 @@ MD5sum: 6edfcc4897d2df0400af20c8f90f4e67
 SHA1: 5a472f7fad65dd50dd062c561e0325a8bf4090a6
 SHA256: 104be59084138dbc2ff40c4946f3c64dd35f97d8d1f8b83901c2cee1241503b6
 
+Package: net.hollr2099.vpnintouchpp
+Name: VPN in Touch++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium VPN in Touch, It doesn't bypass the data limit, only cracks premium.
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
+Filename: debs/VPNinTouch.deb
+Size: 3694
+MD5sum: 472823d94c51e28248b73bf13d953a52
+SHA1: 16af3b2aac9caecee478ab739f784f7c6ca7dd72
+SHA256: e008f3f60da65419480cce71f3e567b18c99d6c49049586f3bacdc351e278e69
+
+Package: net.hollr2099.vpnproxymasterpp
+Name: VPN Proxy Master++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium VPN Proxy Master
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.7
+Installed-Size: 69
+Filename: debs/VPNProxyMaster.deb
+Size: 3710
+MD5sum: 7445151d162fcb4883d518ce978c838d
+SHA1: b0987122f241e3dc76789fd27953d5dcc7088169
+SHA256: 063ad20dfd0d6c642a851d6900a49bdf93127348e6806dd328278076bb9ad789
+
+Package: net.hollr2099.weatherlivepp
+Name: Weather Live++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Weather Live
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
+Filename: debs/WeatherLive.deb
+Size: 4480
+MD5sum: 0f194b2fc2c0bbe5f5dc128d6ae51271
+SHA1: 5aa13242e6d4f91b2911c5badf652ead872f98da
+SHA256: 84710180f9944b702efc1aa2b535d67eb79212ade48cd1b8852aa5fba50967c0
+
+Package: net.hollr2099.windypp
+Name: Windy++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Windy
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
+Filename: debs/Windy.deb
+Size: 3946
+MD5sum: 2b53c477d2c8b8765776e41c0ac6e4bf
+SHA1: 9e43c933430ce134e2af6a36c8a370197daecf98
+SHA256: 2a99b165919a019760c685cd3c543594333638a879ffc286edbef4f9a54bd662
+
+Package: net.hollr2099.youcammakeuppp
+Name: YouCam Makeup++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro YouCam Makeup
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
+Filename: debs/YouCamMakeup.deb
+Size: 3792
+MD5sum: 4816b86f738650ab2b7138887a086c99
+SHA1: 5621d82e6e41b039c9185ed96b7389adb2611eaf
+SHA256: 07965a36281d796a752a023c3336fcfa962735e174e646a9bdd4842ac1e10dce
+
+Package: net.hollr2099.youcamperfectpp
+Name: YouCam Perfect++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro YouCam Perfect
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.4
+Installed-Size: 117
+Filename: debs/YouCamPerfect.deb
+Size: 4368
+MD5sum: 64e45e84fa7174ffffeeee6b688f645f
+SHA1: ee29e36e0ab3c97226c2209d163e57c96778fc1c
+SHA256: c5249a4b8bbc347c2e90c5772cb6dcc20b4d47fd4688eab46440968bdbac69dc
+
