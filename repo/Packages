@@ -1247,3 +1247,20 @@ MD5sum: 64e45e84fa7174ffffeeee6b688f645f
 SHA1: ee29e36e0ab3c97226c2209d163e57c96778fc1c
 SHA256: c5249a4b8bbc347c2e90c5772cb6dcc20b4d47fd4688eab46440968bdbac69dc
 
+Package: net.hollr2099.youtubemusicpp
+Name: YouTube Music++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.youtubemusicpp, io.sarahh12099.ytmusicremastered
+Architecture: iphoneos-arm
+Description: No ads, background playback, double tap to skip, audio only mode switch/buttons, no get premium banner in account settins, no upsell notifications, no upsell popups on YouTube Music
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.2.0
+Installed-Size: 69
+Filename: debs/YouTubeMusic.deb
+Size: 3942
+MD5sum: c32ef88edbc9aff8084be58eaab3ad80
+SHA1: 205c015aca69fd7fc5f0f187a542de4da63b3207
+SHA256: 0c9de83f49746e2e84d6f8065b804c0c3132f72075a801ff12b7aa03bf4b52b7
+
