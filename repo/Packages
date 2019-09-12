@@ -238,22 +238,6 @@ MD5sum: 3b9327ab6dda695c4a21de5a43aa07a5
 SHA1: 694c351d183dac8312aa88293d2dcd6039699acd
 SHA256: ac5ee8567fd8baaca0b981b89ccb51ae5f25d02f0112956e20fd56fcedd1c097
 
-Package: net.hollr2099.cotomoviespp
-Name: CotoMovies++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No Ads and Bypass Ad Limit Tracking On CotoMovies
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.4
-Installed-Size: 69
-Filename: debs/CotoMovies.deb
-Size: 3318
-MD5sum: 972c6dea0ff66f8abef4af9ad7e92aef
-SHA1: 5b48b8ef384f9ad63615af00143564f77ccb133d
-SHA256: 4fc09d16ce07a8dd81b764e7f475409270eb5097391a0754e3dbe26ed3294066
-
 Package: net.hollr2099.crunchyrollpp
 Name: Crunchyroll++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -685,22 +669,6 @@ Size: 3650
 MD5sum: 22fa6bed33ea650e1b7587abc19fbdef
 SHA1: 728be8a3f817c57a1143cacd98368203949064d4
 SHA256: b6d1fbed370fb6d874ba4eb179f642b9736242d86dfeaf47a488ad83d002a313
-
-Package: net.hollr2099.mediaboxhdpp
-Name: MediaBox HD++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No ads on MediaBox HD
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.3
-Installed-Size: 117
-Filename: debs/MediaBoxHD.deb
-Size: 4544
-MD5sum: d1bd33980c37271bbf88867e8a0c796a
-SHA1: c4a6ef84632eaef0b5f416d95d30e6dcd8c78b8e
-SHA256: ea8602d7f8e34c22ecdf1a3b6e723a4a1839c9eb27d94fa8040c14f48ca4b515
 
 Package: net.hollr2099.memoradopp
 Name: Memorado++
@@ -1293,21 +1261,4 @@ Size: 4368
 MD5sum: 64e45e84fa7174ffffeeee6b688f645f
 SHA1: ee29e36e0ab3c97226c2209d163e57c96778fc1c
 SHA256: c5249a4b8bbc347c2e90c5772cb6dcc20b4d47fd4688eab46440968bdbac69dc
-
-Package: io.sarahh12099.ytmusicremastered
-Name: YT Music Remastered
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: net.hollr2099.youtubemusicpp
-Architecture: iphoneos-arm
-Description: No ads, background playback, double tap to skip, audio only mode switch, no get premium banner in account settings, no upsell notifications, no upsell popups on YouTube Music
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 69
-Filename: debs/YTMusicRemastered.deb
-Size: 4022
-MD5sum: 5c6e0d2e4be275502d9e670cda3d1d25
-SHA1: 48893a0c15b14b65eb1818013488a380d549677e
-SHA256: 2de9e67a282a7d12596d4359ebe1d954982fd3cb0830630f29bf1108652d9e92
 
