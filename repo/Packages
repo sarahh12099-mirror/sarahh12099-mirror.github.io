@@ -1054,22 +1054,6 @@ MD5sum: 10edec82b82de78b77badc1a5cc9e4ac
 SHA1: 2566691001fc18c61c1acd7f750e21b4ac9ab95d
 SHA256: 2ccfd1ef8e4ab7ef08597c709a0ca302f71b6579767e8a02d2bbd2d771b81a04
 
-Package: net.hollr2099.twitchpp
-Name: Twitch++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No Ads On Twitch
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.1.0
-Installed-Size: 69
-Filename: debs/Twitch.deb
-Size: 3162
-MD5sum: 21b1a02eaabda77a157707301a0b3c96
-SHA1: ff15482d87462c65ea985f1d0049311b4be360b6
-SHA256: 44e947032674218070faeb493da54032672e877880994716bf743727a3e8257d
-
 Package: net.hollr2099.twitterrificpp
 Name: Twitterrific++
 Depends: mobilesubstrate, firmware (>= 10.0)
