@@ -1256,11 +1256,11 @@ Description: No ads, background playback, double tap to skip, audio only mode sw
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.2.0
+Version: 1.0.2.1
 Installed-Size: 69
 Filename: debs/YouTubeMusic.deb
-Size: 3942
-MD5sum: c32ef88edbc9aff8084be58eaab3ad80
-SHA1: 205c015aca69fd7fc5f0f187a542de4da63b3207
-SHA256: 0c9de83f49746e2e84d6f8065b804c0c3132f72075a801ff12b7aa03bf4b52b7
+Size: 4120
+MD5sum: 49975e0d1c959da9a46db2dcf3ec8587
+SHA1: 1a2cb41d42cc8cbd9904a1bc2e5e8735e6aca18d
+SHA256: 3ad2caa721e2963064d73d21691ad2b45556d35212b9b11087cdc9f3649bacde
 
