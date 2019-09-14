@@ -129,18 +129,19 @@ SHA256: 0d0fcd9f8306a9e6bea24361585c5ecf3744eb85e572ee6f2354ecef30495a91
 Package: net.hollr2099.audiomackpp
 Name: Audiomack++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.audiomackpp
 Architecture: iphoneos-arm
 Description: Free Premium Audiomack
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.4
+Version: 1.0.0.5
 Installed-Size: 69
 Filename: debs/Audiomack.deb
-Size: 3188
-MD5sum: 9d3114d8a536ff97a9d793f9f8608c9e
-SHA1: 5c509f9218485e0e20fc2cccfd8a271227da125e
-SHA256: dfb02bf10b978d262554e78f61172ca1188cfdba7f0e30e0426270c1af6af1ca
+Size: 3090
+MD5sum: e1bba9b8d4dfd0e9916e755a07cfb276
+SHA1: 304e032d1ff7800cffbb49ef383e67adb072f79c
+SHA256: 4594123cc9100a041658ab1853ada2c7901b3ab62380c04f50e9a1040afe21a7
 
 Package: net.hollr2099.bearpp
 Name: Bear++
@@ -1010,18 +1011,19 @@ SHA256: 2c4fdcec01e920242e5cead940d0e14d91074fb7feb41475f0a5f5e58994fb63
 Package: net.hollr2099.starvpnpp
 Name: Star VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.starvpnpp
 Architecture: iphoneos-arm
 Description: Free Premium Star VPN
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.2
-Installed-Size: 117
+Version: 1.0.0.3
+Installed-Size: 69
 Filename: debs/StarVPN.deb
-Size: 3910
-MD5sum: bb54dd37bd9b78fc72e6f62ebebff4a2
-SHA1: f37915554abdac40752b5086c3eaa53f7d18a7a9
-SHA256: 3002658bb9e1e9fa96e252753500d8f9957bffc8d5850237d58edabff12960bf
+Size: 3552
+MD5sum: 5a788aa2521e5f12978d3d1106763811
+SHA1: ad55cd64042f49776ca1223a465070d0d2623e5a
+SHA256: fe8b43f02af4e5ff3f27221af9aa98c94b9ab321c3b6b8162b0214141ef1d957
 
 Package: net.hollr2099.touchvpnpp
 Name: Touch VPN++
