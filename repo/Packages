@@ -46,6 +46,23 @@ MD5sum: b3f67b87b1cbf5114f98b78b67eff298
 SHA1: da27f96534d746afd5837ead61c5eeb0213866e4
 SHA256: bbd4ccf1090637cbb28e2511708a7fedfb70df3458af2eed02e96f3b91dbccc9
 
+Package: net.hollr2099.adguardpp
+Name: AdGuard++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.adguardpp
+Architecture: iphoneos-arm
+Description: Free Premium AdGuard
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/AdGuard.deb
+Size: 3066
+MD5sum: ec085f522536c070993cfe13d38d7843
+SHA1: 0c86542d068aea7e536d706bebba9f419292f873
+SHA256: f365fb48f085b183487a6bbd29424e0222f1164d8c2b4d0d895386db76d10aa0
+
 Package: net.hollr2099.adobepremiererushccpp
 Name: Adobe Premiere Rush CC++
 Depends: mobilesubstrate, firmware (>= 10.0)
