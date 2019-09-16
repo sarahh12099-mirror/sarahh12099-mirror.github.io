@@ -129,19 +129,20 @@ SHA256: 98a849dd3679b09aac0b2f1aa448b27f3108c25826c4aaae247686700e43359c
 
 Package: net.hollr2099.appswitchergrid
 Name: AppSwitcher Grid
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.appswitchergrid
 Architecture: iphoneos-arm
 Description: Turns AppSwitcher into a 2x2 grid
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: debs/AppSwitcherGrid.deb
-Size: 2558
-MD5sum: e9dd5338a1d638dfc033a1c6305ec336
-SHA1: 2acc1c07ace2e8da573e6249737f7d67f1678054
-SHA256: 0d0fcd9f8306a9e6bea24361585c5ecf3744eb85e572ee6f2354ecef30495a91
+Size: 1976
+MD5sum: c33f9d74501345a357c16792cfd5d74a
+SHA1: 1d4825792a85e569693dd5323df791e475e02557
+SHA256: 32051a6097fac13dfa7853a07f264e0581cf33528f47f7f4b00d4706fadd98f6
 
 Package: net.hollr2099.audiomackpp
 Name: Audiomack++
@@ -564,18 +565,19 @@ SHA256: 4f96472811d1a88e4a300a997351d14242e4036f7c33e6b54ae3535ae78e3b20
 Package: net.hollr2099.infuse6pp
 Name: Infuse 6++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.infuse6pp
 Architecture: iphoneos-arm
 Description: Free Pro Infuse 6
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: debs/Infuse6.deb
-Size: 3792
-MD5sum: e42ad0ae05be90b9a59f7b3d99380cb7
-SHA1: f6d496ba9a15fccf4e1c9cf08f5e2242ace48e59
-SHA256: e1d01963942feead022e257e199c751a2774a0a5c8a4f0801a8f978ac4b7652a
+Size: 3234
+MD5sum: 6ff2bdccfe8a3cfdd1c282c961d63c94
+SHA1: 15a40a9b391189bbc1c6a023112db515d3ee1d05
+SHA256: 467d08d0fd81707b5610bb3e07acda1b8155b26303e0a5a01f383eb1ce4623ab
 
 Package: net.hollr2099.iterminalpp
 Name: iTerminal++
@@ -692,18 +694,19 @@ SHA256: b6d1fbed370fb6d874ba4eb179f642b9736242d86dfeaf47a488ad83d002a313
 Package: net.hollr2099.memoradopp
 Name: Memorado++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.memoradopp
 Architecture: iphoneos-arm
 Description: Free Premium Memorado
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.3
-Installed-Size: 117
+Version: 1.0.0.4
+Installed-Size: 69
 Filename: debs/Memorado.deb
-Size: 4082
-MD5sum: bc8b6264d2334869abe5bf4dee884df5
-SHA1: cf2b2acc4943ac6d613340cd3c38c5b29fa2f64a
-SHA256: 90230dd5f9d4e02cd020780c6ed8333948872041ad089cb31af9a43d8f270347
+Size: 3432
+MD5sum: 7b154fba9556673a09398d0edf6e5f16
+SHA1: 969f774acf1be5a4c67fce1465e1cc43282df7dd
+SHA256: 8d632702f242ea260cebbcf64b9b5881511183f48ab7a17d2dde85766f5ba49c
 
 Package: net.hollr2099.moderndock
 Name: Modern Dock
@@ -723,19 +726,20 @@ SHA256: c477910eae343eb4fac8d991bfb0d37dda8e67e907b80c1abf5e9bf040ab5f7f
 
 Package: net.hollr2099.modernstatusbar
 Name: Modern Status Bar
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.modernstatusbar
 Architecture: iphoneos-arm
 Description: More Modern Status Bar for iPhone
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: debs/ModernStatusBar.deb
-Size: 2534
-MD5sum: 57f88309963f172b1f87957b782a2c49
-SHA1: b4538b7bcaf994daa1e1726b3b04b5730b366cea
-SHA256: fbbb8bb2afd997d252546580e486eed146ab6fd17bb139f981bc3298e85c1064
+Size: 1964
+MD5sum: fffc23eca87a5b6a261c9a66c1061da0
+SHA1: 53d3a2f9248924e0473378110f9548834a0bbc83
+SHA256: f438153c5b5775b9a3fdd5e43e913d1439da2b894bc9d316e28f88c3ed310e95
 
 Package: net.hollr2099.nightskypp
 Name: Night Sky++
@@ -1189,18 +1193,19 @@ SHA256: e008f3f60da65419480cce71f3e567b18c99d6c49049586f3bacdc351e278e69
 Package: net.hollr2099.vpnproxymasterpp
 Name: VPN Proxy Master++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.vpnproxymasterpp
 Architecture: iphoneos-arm
 Description: Free Premium VPN Proxy Master
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.7
+Version: 1.0.0.9
 Installed-Size: 69
 Filename: debs/VPNProxyMaster.deb
-Size: 3710
-MD5sum: 7445151d162fcb4883d518ce978c838d
-SHA1: b0987122f241e3dc76789fd27953d5dcc7088169
-SHA256: 063ad20dfd0d6c642a851d6900a49bdf93127348e6806dd328278076bb9ad789
+Size: 4422
+MD5sum: 897d0beb39f188402e20bd6c1a6235b4
+SHA1: 400419119b02462b4773c79c82baa730235b7599
+SHA256: 456a394c296dde68e06150b3adce05fc6ac78d15649700a147baa47b59eba405
 
 Package: net.hollr2099.weatherlivepp
 Name: Weather Live++
