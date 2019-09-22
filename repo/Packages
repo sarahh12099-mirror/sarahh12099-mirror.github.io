@@ -869,6 +869,23 @@ MD5sum: 9b4e93862d6df8e3af90b87c6f9a313a
 SHA1: 1317da72b4de998b771aea8c3a91c692ac82f509
 SHA256: d5ee446c5c8fd03738644d61dacea0e1c2f7b4f90bd210049c6ac47234358af7
 
+Package: net.hollr2099.psiphonpp
+Name: Psiphon++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.psiphonpp
+Architecture: iphoneos-arm
+Description: Free Premium Psiphon
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/Psiphon.deb
+Size: 3492
+MD5sum: 22fd98610f60a6589149c6b5010fd5da
+SHA1: 97741ff2c94f0f9d245aa7f729b7e801284ae3bb
+SHA256: bbe2547ad0c7578ae3380632066e1e30b6b30af1ca34735f3ed1bbf8acf1d7b7
+
 Package: net.hollr2099.rainbowkeypp
 Name: RainbowKey++
 Depends: mobilesubstrate, firmware (>= 10.0)
