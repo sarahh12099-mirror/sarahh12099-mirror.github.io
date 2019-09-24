@@ -1051,6 +1051,23 @@ MD5sum: 718465cc7a054fd1147adaf6eb909e41
 SHA1: a10fafb907db099a6000496075fe798e4ee43cb0
 SHA256: b1e3c64892149ab83eff4736dfbcbfa2e75c688d5d61d128951ba5b6652ca690
 
+Package: net.hollr2099.solovpnpp
+Name: Solo VPN++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.solovpnpp
+Architecture: iphoneos-arm
+Description: Free Premium Solo VPN
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/SoloVPN.deb
+Size: 3532
+MD5sum: 9a4408f0f0948c42bdea692dcb050ae1
+SHA1: 51271b90cd79ee5e325a511eafaeafdc8a8200d2
+SHA256: 9a65d8d011d5a1933b36ff98a138e6a031cd2052c25b39c8b0fc73f419c638b2
+
 Package: net.hollr2099.speedtestpp
 Name: Speedtest++
 Depends: mobilesubstrate, firmware (>= 10.0)
