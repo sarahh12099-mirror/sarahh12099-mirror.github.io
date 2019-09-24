@@ -388,18 +388,19 @@ SHA256: 847f684f0e7b54f7a661354e5ad76b9da2d80f8b9303f8169488d7c6bb011d74
 Package: net.hollr2099.evepp
 Name: Eve++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.evepp
 Architecture: iphoneos-arm
-Description: Free Premium & All Gems Unlocked on Eve - Period Tracker App
+Description: Free Premium & All Gems Unlocked on Eve - Period Tracker
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.2
+Version: 1.0.0.3
 Installed-Size: 69
 Filename: debs/Eve.deb
-Size: 3314
-MD5sum: 14d944e3081952725082f7aeeed5004d
-SHA1: 1a09fe811cd959dbea34f582b065c43285c436ae
-SHA256: dd10d736b1797783308fc78e3f1c724fee6b4ecdc231e5c68ef6dfa684e6cc24
+Size: 3364
+MD5sum: 079ff465dc19ae19def62cbdb4bcfde5
+SHA1: 6ca5c90e3a2ebbef5fc30e0b2e616ac781fd57a8
+SHA256: 2a8b6538e65641275c3e4bd9659c614bea249a247be03c1e392a84fee6db1dbc
 
 Package: net.hollr2099.fancypantsadventurespp
 Name: Fancy Pants Adventures++
@@ -452,18 +453,19 @@ SHA256: 5d66066fc8996008e4acc9769a549be35030951f7a387f4e9619006f4c791b5e
 Package: net.hollr2099.flopp
 Name: Flo++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.flopp
 Architecture: iphoneos-arm
 Description: Free Premium Flo Period & Ovulation Tracker
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.6
+Version: 1.0.0.7
 Installed-Size: 69
 Filename: debs/Flo.deb
-Size: 3180
-MD5sum: 5e6134eb96c738be6228e8c32298dd03
-SHA1: c3efb92b0b00870ff5120798c96aa654929386b1
-SHA256: 9ae9df2347e71acf28dc0791d32981d721beecffa08467cc2fad8e330b276469
+Size: 3188
+MD5sum: 669d5c6a7d344a095b1bbd971c605096
+SHA1: 49cf2ca014d8f82c44c33156cb31c547d0e61830
+SHA256: 27fc7263d13cb86feb8696e89786714f22447dd113eb34f28a932c9b6f0f0f71
 
 Package: net.hollr2099.geozillapp
 Name: GeoZilla++
@@ -480,6 +482,23 @@ Size: 3704
 MD5sum: 40d0fff0951a464af17050e93b97918f
 SHA1: 1408af483cf5e5200a178472a57cb930df913186
 SHA256: b6dafa6e500a5599cb2dde7aa7c6c8cb35a932d5ebc78edcf9e08014627e488e
+
+Package: net.hollr2099.glowpp
+Name: Glow++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.glowpp
+Architecture: iphoneos-arm
+Description: Free Premium on Glow, Period & Fertility Tracker
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/Glow.deb
+Size: 3384
+MD5sum: 30c46cc1d8bb7b9ad87bd3890876084e
+SHA1: 42d4774860ff5843ecec9631800d51a32ad5b5c9
+SHA256: 84f1ef11c5e42dc76033bdb8c648e7f75d46872100c9b7ced4ba6709f8c3b7e0
 
 Package: net.hollr2099.happychickpp
 Name: Happy Chick++
@@ -630,18 +649,19 @@ SHA256: a2c1df9682f5922a70578b54b181cc52954711e2e5d9f2ba10915d7194dd6b4b
 Package: net.hollr2099.lifepp
 Name: Life++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.lifepp
 Architecture: iphoneos-arm
 Description: Free Premium Life - Period Tracker Calendar
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
+Version: 1.0.0.1
 Installed-Size: 69
 Filename: debs/Life.deb
-Size: 3050
-MD5sum: a251047dacde8343662d3c3d6061662f
-SHA1: be33931d290d1a72781710eddfc4fcaf7688eb6c
-SHA256: 8023e645e6dba7b2d1632ab357f1b9db3e970f17670352fc041221578c26b534
+Size: 3062
+MD5sum: 43fdaf1c2b1a2768ed948d9b9bb3e0cd
+SHA1: b8fa9ef689a66f6178913f217ef89a5992fe0108
+SHA256: d96a3a9ff1375ab7dfc1ec9e4b279afb001f52f3c901b2e1db97b8c8c9f9e33d
 
 Package: net.hollr2090.lifecyclepp
 Name: Life Cycle++
@@ -840,18 +860,19 @@ SHA256: f8465ebd4cce112ee2134f2bdebfd9df737ec9189a4ca05dfa3ec7c477ad0b56
 Package: net.hollr2099.palomapp
 Name: Paloma++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.palomapp
 Architecture: iphoneos-arm
 Description: Free Premium Paloma: Period Tracker & Diary
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.1
+Version: 1.0.0.2
 Installed-Size: 69
 Filename: debs/Paloma.deb
-Size: 3130
-MD5sum: b6fd558aebbf0f9e1d3e07321bd2b04a
-SHA1: f47feed0d9ea326ae1778a79712f20eb97d8e31b
-SHA256: fbb52732cca5b7102a19f14f57d85db025bcc32565e8b5b1bb57e6b5588a9be8
+Size: 3188
+MD5sum: e6f3782ff972cf561b5b890e79abb469
+SHA1: b8956d733d21872688bd9b64147d935ffd4671bc
+SHA256: 127e6066aed0a314ea1e1454aa93e668c8f43a89d8dfee878a67a411ce1ae291
 
 Package: net.hollr2099.plexpp
 Name: Plex++
