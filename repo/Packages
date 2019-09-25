@@ -289,6 +289,23 @@ MD5sum: e52178fa2ed076b47b322e7b827e50dd
 SHA1: 44212b835783d420f70ab7679ed4dbaff76fba1d
 SHA256: 6387146aec081fabf767d2918c8745833e76d5c0c9013c73e0770d0e73903ab2
 
+Package: net.hollr2099.cyclespp
+Name: Cycles++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.cyclespp
+Architecture: iphoneos-arm
+Description: Free Premium Cycles - Period Tracker
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/Cycles.deb
+Size: 3124
+MD5sum: ba4eaa5098cfc0e24d31394cf5b80382
+SHA1: 6f662d164ce438504002afa40537489e54066601
+SHA256: 476ecab213c4a1331dea4be6718f84654ce178838f0b6963567f7290adfaef61
+
 Package: net.hollr2099.cydiabackgroundrefresh
 Name: Cydia Background Refresh
 Depends: mobilesubstrate, firmware (>= 10.0)
