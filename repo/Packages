@@ -55,13 +55,13 @@ Description: Free Premium AdGuard
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
+Version: 1.0.0.1
 Installed-Size: 69
 Filename: debs/AdGuard.deb
-Size: 3066
-MD5sum: ec085f522536c070993cfe13d38d7843
-SHA1: 0c86542d068aea7e536d706bebba9f419292f873
-SHA256: f365fb48f085b183487a6bbd29424e0222f1164d8c2b4d0d895386db76d10aa0
+Size: 3144
+MD5sum: 76ef5edb2dc32c287d3e5574bef56ae4
+SHA1: 75b4aa715a453775e62be47de96220737eb52a5f
+SHA256: 09d54ea552dab5f7e798505041091839fe3f89bfc35ea40882d159b25793afa8
 
 Package: net.hollr2099.adobepremiererushccpp
 Name: Adobe Premiere Rush CC++
