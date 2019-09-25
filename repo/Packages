@@ -517,23 +517,6 @@ MD5sum: 30c46cc1d8bb7b9ad87bd3890876084e
 SHA1: 42d4774860ff5843ecec9631800d51a32ad5b5c9
 SHA256: 84f1ef11c5e42dc76033bdb8c648e7f75d46872100c9b7ced4ba6709f8c3b7e0
 
-Package: net.hollr2099.guardianpp
-Name: Guardian++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: io.sarahh12099.guadianpp
-Architecture: iphoneos-arm
-Description: Free Premium Guardian Firewall + VPN
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 69
-Filename: debs/Guardian.deb
-Size: 3564
-MD5sum: 9bffac346429444fd2a14ed66907e657
-SHA1: 336b7e57ea0e944844b6dac0a31002d294e0fe14
-SHA256: 62bc959039a865fcc56fc379b78a0181dcc7b2f20b39065ac37db4312d9fbddc
-
 Package: net.hollr2099.happychickpp
 Name: Happy Chick++
 Depends: mobilesubstrate, firmware (>= 10.0)
