@@ -745,6 +745,23 @@ MD5sum: 7b154fba9556673a09398d0edf6e5f16
 SHA1: 969f774acf1be5a4c67fce1465e1cc43282df7dd
 SHA256: 8d632702f242ea260cebbcf64b9b5881511183f48ab7a17d2dde85766f5ba49c
 
+Package: net.hollr2099.merriamwebsterpp
+Name: Merriam-Webster++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.merriamwebsterpp
+Architecture: iphoneos-arm
+Description: No ads on Merriam-Webster Dictionary
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/MerriamWebster.deb
+Size: 3318
+MD5sum: 64ca1591696ff86d672c862e83cbbe74
+SHA1: 1082f43bf98a226b152bf35360c573c661daa42e
+SHA256: c7fd7baa456a2eb9c9f48f7f2cc333b01ebd47ea9bf03c455d7c13cbdc3bf125
+
 Package: net.hollr2099.moderndock
 Name: Modern Dock
 Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
