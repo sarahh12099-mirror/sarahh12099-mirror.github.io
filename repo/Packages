@@ -750,17 +750,17 @@ Name: Merriam-Webster++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.merriamwebsterpp
 Architecture: iphoneos-arm
-Description: No ads on Merriam-Webster Dictionary
+Description: No ads, no share popups and no rate poups on Merriam-Webster Dictionary
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
 Version: 1.0.0.0
 Installed-Size: 69
 Filename: debs/MerriamWebster.deb
-Size: 3318
-MD5sum: 64ca1591696ff86d672c862e83cbbe74
-SHA1: 1082f43bf98a226b152bf35360c573c661daa42e
-SHA256: c7fd7baa456a2eb9c9f48f7f2cc333b01ebd47ea9bf03c455d7c13cbdc3bf125
+Size: 3332
+MD5sum: 1eb099b7315902f9606d3139c1cb2cb2
+SHA1: 255826039f8389e7704f37a8a09066db05b30e50
+SHA256: 9ca00100ca086431605ba1749d1f3c1990eb493f708a03be294649f92dffdebf
 
 Package: net.hollr2099.moderndock
 Name: Modern Dock
@@ -794,6 +794,23 @@ Size: 1964
 MD5sum: fffc23eca87a5b6a261c9a66c1061da0
 SHA1: 53d3a2f9248924e0473378110f9548834a0bbc83
 SHA256: f438153c5b5775b9a3fdd5e43e913d1439da2b894bc9d316e28f88c3ed310e95
+
+Package: net.hollr2099.myprivacypp
+Name: MyPrivacy++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: io.sarahh12099.myprivacypp
+Architecture: iphoneos-arm
+Description: Free Premium MyPrivacy
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
+Filename: debs/MyPrivacy.deb
+Size: 3102
+MD5sum: ee0fdec4171ed52d158e3d0ba1d5a5e4
+SHA1: 759ba55d6822b6565b9dd3ad3d658ae8c701bbc0
+SHA256: 4581717ae91c932f031673a6189c8bfe0d0325545c30767319f9b3b8fa8dfb6e
 
 Package: net.hollr2099.nightskypp
 Name: Night Sky++
