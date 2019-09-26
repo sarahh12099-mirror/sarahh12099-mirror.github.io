@@ -764,19 +764,20 @@ SHA256: 9ca00100ca086431605ba1749d1f3c1990eb493f708a03be294649f92dffdebf
 
 Package: net.hollr2099.moderndock
 Name: Modern Dock
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.moderndock
 Architecture: iphoneos-arm
 Description: iPhone X style dock for other iDevices
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: debs/ModernDock.deb
-Size: 2552
-MD5sum: f016db46b8f84fc7e0dddf2980786db2
-SHA1: 1206f761fae3f0cf7b63d22640e5949ef38ef796
-SHA256: c477910eae343eb4fac8d991bfb0d37dda8e67e907b80c1abf5e9bf040ab5f7f
+Size: 1970
+MD5sum: 870c7a152da84ba007ef22cfc76305a7
+SHA1: 50f3cf54cbc0ef7daec6693c3e6fe94c8978a88e
+SHA256: 6a5ee6054b28b71ca3b87e9e89c2e32f3ca96e3287dee881983649a55cd96b62
 
 Package: net.hollr2099.modernstatusbar
 Name: Modern Status Bar
@@ -862,19 +863,20 @@ SHA256: bb2ef5ce103c78ad9db2a55b06317289c131585dda6fb805a03486c291ad02b5
 
 Package: net.hollr2099.nodndlockscreen
 Name: No DND Lockscreen
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.nodndlockscreen
 Architecture: iphoneos-arm
 Description: No Do Not Disturb notification on lockscreen
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: debs/NoDNDLockscreen.deb
-Size: 2608
-MD5sum: 6950d13e279e39bc27827771606a3bde
-SHA1: 84b7b6cab0ac108389e492a126dd355ad38a8a78
-SHA256: e129d6751fd3e7b35ad4c8ee10b23a82030c585d2ea1aade7e2402ff3fb8bfb4
+Size: 2012
+MD5sum: 1ba8b7247c72dad02c1e45b64b6c96d3
+SHA1: 4d331e0d81fb70d9946e05aa07c09837b19dfcf7
+SHA256: acb3cdadb9fc1f577538abdb79fd82b4bf93af43576d67222d32ecfd2eec1da4
 
 Package: net.hollr2099.officesuitepp
 Name: OfficeSuite++
