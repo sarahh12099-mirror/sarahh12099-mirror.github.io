@@ -111,22 +111,6 @@ MD5sum: e413661b133d25499633c24a832e4eb3
 SHA1: f3015c541014e4e857cb56369e5bfd57b17d296b
 SHA256: 3f2700939222399b078a06d1ea4893374f237aac3d346f0fec37f4aec054eb52
 
-Package: net.hollr2099.appstorepp
-Name: AppStore++
-Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 10.3.3)
-Architecture: iphoneos-arm
-Description: No Ads And No Update History On AppStore
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.2
-Installed-Size: 117
-Filename: debs/AppStore.deb
-Size: 2912
-MD5sum: 050c5201b53b72aa5119f365f0fdfc54
-SHA1: b7d2ec9b42882a397e8e94eaa0d463fcdd021b48
-SHA256: 98a849dd3679b09aac0b2f1aa448b27f3108c25826c4aaae247686700e43359c
-
 Package: net.hollr2099.appswitchergrid
 Name: AppSwitcher Grid
 Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
@@ -976,22 +960,6 @@ MD5sum: af53583ed535ad053be074ca3853dfe4
 SHA1: 1b4a57efe80f8b87eefc632ab361a467ad593ae3
 SHA256: 6a779fcb4cc598b4c975de290be04d90fb3626a285614cd1b618dc0be5c9e528
 
-Package: net.hollr2099.safaripp
-Name: Safari++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: Background Playback On Safari. If you restart your idevice, you will have to reinstall the tweak in order for it to work again.
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.1
-Installed-Size: 117
-Filename: debs/Safari.deb
-Size: 2680
-MD5sum: 39cc152976c85968c02388260263c26a
-SHA1: 5de282250d7f2a6d27346f529e943c9192e34ef7
-SHA256: 2090a44ce0c01f375c54ccaaf12e4139e0c8ff297fb033b9ad342b3ff946026f
-
 Package: net.hollr2099.scannerformepp
 Name: Scanner for Me++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -1023,22 +991,6 @@ Size: 3568
 MD5sum: 01332f7fc39e9e6535e7a1c51396c2a4
 SHA1: 445e8641717e533d7c41dcd5ea17cb5629e1529d
 SHA256: 78684b02920cdd8780c02a517d7bb1d9e099447c3e1cadd24e55486fac173443
-
-Package: net.hollr2099.settingspp
-Name: Settings++
-Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 10.3.3)
-Architecture: iphoneos-arm
-Description: No third party apps in list, no search bar, no hold highlighting, no carrier box
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.2
-Installed-Size: 117
-Filename: debs/Settings.deb
-Size: 3030
-MD5sum: 4718297f43e4cf41050a845f165579dd
-SHA1: 2f404922c1581bfae55b261f7e21a76c3135c756
-SHA256: 5914618522ebe44da5663963a44f5903669b52b9e6def3f3a96e24c50013633f
 
 Package: net.hollr2099.simpleradiopp
 Name: Simple Radio++
@@ -1087,22 +1039,6 @@ Size: 3936
 MD5sum: 49c1ad154059ee569cebc01b6b8d2346
 SHA1: 901e66908f41564a264d0cf016ecafddadb68da4
 SHA256: 5bd98f141529f01be4677bc410e7e5d80d6cb7a5637d2cffa1f305f37b0bdab5
-
-Package: net.hollr2099.snapcalpp
-Name: SnapCal++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: Free Premium SnapCal - Math Problem Solver
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
-Filename: debs/SnapCal.deb
-Size: 3914
-MD5sum: 718465cc7a054fd1147adaf6eb909e41
-SHA1: a10fafb907db099a6000496075fe798e4ee43cb0
-SHA256: b1e3c64892149ab83eff4736dfbcbfa2e75c688d5d61d128951ba5b6652ca690
 
 Package: net.hollr2099.solovpnpp
 Name: Solo VPN++
