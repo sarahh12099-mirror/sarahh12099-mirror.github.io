@@ -1320,15 +1320,15 @@ Name: YouTube Music++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.youtubemusicpp, io.sarahh12099.ytmusicremastered
 Architecture: iphoneos-arm
-Description: No ads, background playback, double tap to skip, audio only mode switch/buttons, no get premium banner in account settins, no upsell notifications, no upsell popups on YouTube Music
+Description: No ads, background playback, double tap to skip, audio only mode switch/buttons, no get premium banner in account settings, no age check, no content check, no upsell notifications, no upsell popups on YouTube Music
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.2.2
+Version: 1.0.2.3
 Installed-Size: 69
 Filename: debs/YouTubeMusic.deb
-Size: 4172
-MD5sum: ab581fb575f90a4e747061a86715961d
-SHA1: a6a5568cc9f9f2d930ee0881740c5226b23f776e
-SHA256: 7bf4457a8172f36d5549486d13858f1188c4b7861ac34e66f0b70c292b4c1341
+Size: 4344
+MD5sum: f75a231f82bb49dd91a3af643bee1adb
+SHA1: e14b9ce876d0a2c734d205d7e456d983ef3ee618
+SHA256: 0b255d41180d2324a6738a106a213d4962f64b8b499ad1684e28cdde165d72af
 
