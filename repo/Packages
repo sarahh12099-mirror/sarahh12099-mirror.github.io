@@ -960,6 +960,23 @@ Description: Free VIP RainbowKey
 Author: SarahH12099
 Name: RainbowKey++
 
+Package: net.hollr2099.safaribackgroundplayback
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: net.hollr2099.safaripp
+Filename: ./debs/SafariBackground.deb
+Size: 2418
+MD5sum: b48c29ecb9765d757d6c858d18277b6a
+SHA1: 53cb20d4392e0ceab6f8b8ad0b720233521481af
+SHA256: 59d708cba11a575e66272d0ced55f0ff0ad5de1579dfb5258406d40bb188dcac
+Section: Tweaks
+Description: Background Playback on Safari
+Author: SarahH12099
+Name: Safari Background Playback
+
 Package: net.hollr2099.scannerformepp
 Version: 1.0.0.0
 Architecture: iphoneos-arm
