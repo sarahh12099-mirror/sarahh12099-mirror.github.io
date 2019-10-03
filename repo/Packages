@@ -159,17 +159,16 @@ Author: SarahH12099
 Name: AppSwitcher Grid
 
 Package: net.hollr2099.audiomackpp
-Version: 1.0.0.5
+Version: 1.0.0.6
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
-Installed-Size: 69
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: io.sarahh12099.audiomackpp
 Filename: ./debs/Audiomack.deb
-Size: 3090
-MD5sum: e1bba9b8d4dfd0e9916e755a07cfb276
-SHA1: 304e032d1ff7800cffbb49ef383e67adb072f79c
-SHA256: 4594123cc9100a041658ab1853ada2c7901b3ab62380c04f50e9a1040afe21a7
+Size: 3852
+MD5sum: a1b94ea592e4381ce0c71435a31bad6b
+SHA1: 5faacdcfdca37d1615e0cb6a841abf45bfeeb16e
+SHA256: c466bea8b0a32de408d8c4c368bd3a974e301293f1253dbfc7cef0f42b1af393
 Section: Tweaks
 Description: Free Premium Audiomack
 Author: SarahH12099
