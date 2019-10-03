@@ -46,6 +46,22 @@ Description: No ads on 365Scores
 Author: SarahH12099
 Name: 365Scores++
 
+Package: net.hollr2099.accuweatherpp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/AccuWeather.deb
+Size: 4140
+MD5sum: b8bc1eae70df75ec5299dc6a6cc336f2
+SHA1: 85891ea2e4c06d2374072fcc1ad8e76762cb40a4
+SHA256: 0dd1aed23bc9122e007d59984aec1b54901fac75afa4d39b38da31f9d7367807
+Section: Tweaks
+Description: Free Platinum AccuWeather: Weather Radar
+Author: SarahH12099
+Name: AccuWeather++
+
 Package: net.hollr2099.activatorpp
 Version: 1.0.0.3
 Architecture: iphoneos-arm
