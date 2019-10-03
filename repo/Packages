@@ -144,17 +144,16 @@ Author: SarahH12099
 Name: AllTrails++
 
 Package: net.hollr2099.appswitchergrid
-Version: 1.0.0.1
+Version: 1.0.0.2
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
-Installed-Size: 69
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
-Conflicts: io.sarahh12099.appswitchergrid
 Filename: ./debs/AppSwitcherGrid.deb
-Size: 1976
-MD5sum: c33f9d74501345a357c16792cfd5d74a
-SHA1: 1d4825792a85e569693dd5323df791e475e02557
-SHA256: 32051a6097fac13dfa7853a07f264e0581cf33528f47f7f4b00d4706fadd98f6
+Size: 2384
+MD5sum: 8fc5a0986dd1a664d0f583c7f8c906ea
+SHA1: 9196f25fbe2f889b0f0dc1bb1398e17ed6fb998c
+SHA256: 50611f487e52c005d66bcf7cdc89cb0d795a992b3be753e13a2463035278f0ba
 Section: Tweaks
 Description: Turns AppSwitcher into a 2x2 grid
 Author: SarahH12099
