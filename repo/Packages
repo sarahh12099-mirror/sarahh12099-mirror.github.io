@@ -79,17 +79,16 @@ Author: SarahH12099
 Name: Activator++
 
 Package: net.hollr2099.adguardpp
-Version: 1.0.0.1
+Version: 1.0.0.2
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
-Installed-Size: 69
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: io.sarahh12099.adguardpp
 Filename: ./debs/AdGuard.deb
-Size: 3144
-MD5sum: 76ef5edb2dc32c287d3e5574bef56ae4
-SHA1: 75b4aa715a453775e62be47de96220737eb52a5f
-SHA256: 09d54ea552dab5f7e798505041091839fe3f89bfc35ea40882d159b25793afa8
+Size: 3910
+MD5sum: 8f18e29a2970ff68516cab42614cd572
+SHA1: c471cae7f56f7a241199b42949512af0953de0b5
+SHA256: f61d54670a2a461cf7b52d6c5009baac43ed5e443672e62f4b5ff037fd2b2613
 Section: Tweaks
 Description: Free Premium AdGuard
 Author: SarahH12099
