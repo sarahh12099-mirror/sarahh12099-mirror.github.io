@@ -581,17 +581,16 @@ Author: SarahH12099
 Name: hiMusic++
 
 Package: net.hollr2099.hotspotshieldpp
-Version: 1.0.2.5
+Version: 1.0.2.6
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
-Installed-Size: 69
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: io.sarahh12099.hotspotshieldpp
 Filename: ./debs/HotspotShield.deb
-Size: 3774
-MD5sum: 324ac7495e26136d52a82044ce50a652
-SHA1: 65e79f506e4c4d8d4674f9dda4c3622d6f8b33b5
-SHA256: 4c2d65f3accc688dbcec07624842b6ee4e5f5fccc1fdad482aef946733e4a9ef
+Size: 4942
+MD5sum: ba0f240eb407e0400b1edf3ebf3313ec
+SHA1: f49f536fda911b9491ef24d370de9f6783f1b6e7
+SHA256: c121472a0d6019ef236c5163d29252005e92e5c7d99c545bc72cb9d77a1d2214
 Section: Tweaks
 Description: Free Premium Hotspot Shield
 Author: SarahH12099
