@@ -1216,17 +1216,16 @@ Author: SarahH12099
 Name: #VPN - Wi-Fi Hotspot Security++
 
 Package: net.hollr2099.vpnproxymasterpp
-Version: 1.0.0.9
+Version: 1.0.1.0
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
-Installed-Size: 69
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: io.sarahh12099.vpnproxymasterpp
 Filename: ./debs/VPNProxyMaster.deb
-Size: 4422
-MD5sum: 897d0beb39f188402e20bd6c1a6235b4
-SHA1: 400419119b02462b4773c79c82baa730235b7599
-SHA256: 456a394c296dde68e06150b3adce05fc6ac78d15649700a147baa47b59eba405
+Size: 6022
+MD5sum: eb2d18b139089a6176cccf34a9de30ca
+SHA1: a069eb03a3a1c8610a2e630f7877920699471133
+SHA256: e429942a573ebf51a0fa35e6ea7117bd1b9b8011cdbd1ca5f171c437512aa8e2
 Section: Tweaks
 Description: Free Premium VPN Proxy Master
 Author: SarahH12099
