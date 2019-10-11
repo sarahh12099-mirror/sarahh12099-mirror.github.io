@@ -562,33 +562,17 @@ Description: Free Premium Hexatech
 Author: SarahH12099
 Name: Hexatech++
 
-Package: net.hollr2099.himusicpp
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/hiMusic.deb
-Size: 4954
-MD5sum: 8cb882b580697bb20228bf3470d68129
-SHA1: b09af4606253514684794d8e65f6f78828bcb2f5
-SHA256: 15505b890544c2f85cd23104becae5ea6d4c75dfa257f74e05a3ef12b5ff6fc9
-Section: Tweaks
-Description: No Ads On hiMusic
-Author: SarahH12099
-Name: hiMusic++
-
 Package: net.hollr2099.hotspotshieldpp
-Version: 1.0.2.6
+Version: 1.0.2.7
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/HotspotShield.deb
-Size: 4942
-MD5sum: ba0f240eb407e0400b1edf3ebf3313ec
-SHA1: f49f536fda911b9491ef24d370de9f6783f1b6e7
-SHA256: c121472a0d6019ef236c5163d29252005e92e5c7d99c545bc72cb9d77a1d2214
+Size: 4828
+MD5sum: c84f60edefabd179bd86789c20cd4c98
+SHA1: 2c2cbf86b8baece6f24d2aab0d8c6f8569242efa
+SHA256: ddc9805519d00a2d6ca3947c24cc32f8a503681f3e5b7b3c61bb854c845d4f88
 Section: Tweaks
 Description: Free Premium Hotspot Shield
 Author: SarahH12099
@@ -824,38 +808,6 @@ Section: Tweaks
 Description: Free Premium Night Sky
 Author: SarahH12099
 Name: Night Sky++
-
-Package: net.hollr2099.nobluedotshomescreen
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
-Filename: ./debs/NoBlueDotsHomescreen.deb
-Size: 2560
-MD5sum: 0c181c02201ba9eca791e8fe18e32930
-SHA1: 04fadb7d8a2eef5d43d478886f7bbd4dc7c66158
-SHA256: ac3d7329744175602892df3f99e97a51689f12503fbaa1046283298ae7ab41b9
-Section: Tweaks
-Description: No Blue Dots on Homescreen (Blue Dots are from app updates).
-Author: SarahH12099
-Name: No Blue Dots Homescreen
-
-Package: net.hollr2099.nocarrierstatusbar
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
-Filename: ./debs/NoCarrierStatusBar.deb
-Size: 2722
-MD5sum: 68fd93a0f41080f09bbbf9db48e3c1e7
-SHA1: 3fc0a525366087a7cd9027a02183d963183e86e9
-SHA256: bb2ef5ce103c78ad9db2a55b06317289c131585dda6fb805a03486c291ad02b5
-Section: Tweaks
-Description: No Carrier in the Status Bar
-Author: SarahH12099
-Name: No Carrier Status Bar
 
 Package: net.hollr2099.nodndlockscreen
 Version: 1.0.0.1
