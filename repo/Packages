@@ -142,6 +142,22 @@ Description: Free Pro AllTrails
 Author: SarahH12099
 Name: AllTrails++
 
+Package: net.hollr2099.animegtpp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/AnimeGT.deb
+Size: 3826
+MD5sum: 7cf79fb19fbdb73acac6e06fcda99645
+SHA1: 1ac9d3d590e71f4448b5764bafb10c10f1ed6a28
+SHA256: 91a6d16238491aaf303bf71ee8ac17dba5516242e4252f0585303519e468fddb
+Section: Tweaks
+Description: No Ads On AnimeGT
+Author: SarahH12099
+Name: AnimeGT++
+
 Package: net.hollr2099.appswitchergrid
 Version: 1.0.0.2
 Architecture: iphoneos-arm
