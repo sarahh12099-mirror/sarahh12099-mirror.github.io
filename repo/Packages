@@ -1103,6 +1103,22 @@ Description: Free Elite Touch VPN
 Author: SarahH12099
 Name: Touch VPN++
 
+Package: net.hollr2099.tubiopp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/Tubio.deb
+Size: 4420
+MD5sum: 988c80e20b9b26890d69a977b5366a08
+SHA1: 67a8ff80fa590fd7e236cbbef4f48c1956fdc718
+SHA256: e1fd217ad5c26d64c46ba61236435938d4a2e78ab5653b1ef4c62c516e6cda86
+Section: Tweaks
+Description: Free Premium Tubio
+Author: SarahH12099
+Name: Tubio++
+
 Package: net.hollr2099.turbovpnpp
 Version: 1.0.0.3
 Architecture: iphoneos-arm
