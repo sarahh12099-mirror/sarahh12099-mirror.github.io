@@ -1136,18 +1136,18 @@ Author: SarahH12099
 Name: Turbo VPN++
 
 Package: net.hollr2099.twitchpp
-Version: 1.0.1.1
+Version: 1.0.1.2
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/Twitch.deb
-Size: 3800
-MD5sum: 124db04fd42572985f9de809ebfc95f6
-SHA1: 78fa94c38e78391d87290ae3d641a6d64f5af7ee
-SHA256: 19c35adf542f922ac10744483527454c30349dca7d67dfcc35b531ed922bc860
+Size: 3810
+MD5sum: 01dfdb7a6dc9cd923d649d91dbfaa706
+SHA1: 8fd49444dd15d48e666ee6fb7c1a493bc5e093a6
+SHA256: a7e78e79dc5aad736b19a80f25c25c00a2c850da39405720709a16aea52c3c62
 Section: Tweaks
-Description: No Ads On Twitch
+Description: No video ads on Twitch
 Author: SarahH12099
 Name: Twitch++
 
