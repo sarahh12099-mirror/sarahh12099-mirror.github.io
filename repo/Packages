@@ -206,22 +206,6 @@ Description: Free Pro Bear
 Author: SarahH12099
 Name: Bear++
 
-Package: net.hollr2099.betternetpp
-Version: 1.0.1.4
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/Betternet.deb
-Size: 3840
-MD5sum: 070bce82306c590441ae6bd616be3094
-SHA1: e853edaf80915182ee13127219fc76ac276a1dee
-SHA256: 8b5a39c086b1dac930a99dc890848c0d418c4eb46460ae1b75fe03ca4fab648c
-Section: Tweaks
-Description: Free Premium Betternet
-Author: SarahH12099
-Name: Betternet++
-
 Package: net.hollr2099.calmpp
 Version: 1.0.0.0
 Architecture: iphoneos-arm
@@ -576,22 +560,6 @@ Section: Tweaks
 Description: Free Premium Hexatech
 Author: SarahH12099
 Name: Hexatech++
-
-Package: net.hollr2099.hotspotshieldpp
-Version: 1.0.2.7
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/HotspotShield.deb
-Size: 4828
-MD5sum: c84f60edefabd179bd86789c20cd4c98
-SHA1: 2c2cbf86b8baece6f24d2aab0d8c6f8569242efa
-SHA256: ddc9805519d00a2d6ca3947c24cc32f8a503681f3e5b7b3c61bb854c845d4f88
-Section: Tweaks
-Description: Free Premium Hotspot Shield
-Author: SarahH12099
-Name: Hotspot Shield++
 
 Package: net.hollr2099.infuse5pp
 Version: 1.0.0.0
