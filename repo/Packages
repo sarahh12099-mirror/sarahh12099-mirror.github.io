@@ -1150,22 +1150,6 @@ Description: Free Pro Videoshop
 Author: SarahH12099
 Name: Videoshop++
 
-Package: net.hollr2099.vpnaegispp
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/VPNAegis.deb
-Size: 3774
-MD5sum: 4644720945f5a7076af9e45b16c239e5
-SHA1: 112065765a4c5e052d2263fa63ccb18c98fabaaf
-SHA256: d72063937bfd8d52cd91aa838a280478f62813006298ddf0843abfdf5205d204
-Section: Tweaks
-Description: Free Premium VPN Aegis
-Author: SarahH12099
-Name: VPN Aegis++
-
 Package: net.hollr2099.vpncatpp
 Version: 1.0.0.0
 Architecture: iphoneos-arm
@@ -1181,22 +1165,6 @@ Section: Tweaks
 Description: No ads on VPN cat master - express web proxy
 Author: SarahH12099
 Name: VPN Cat++
-
-Package: net.hollr2099.vpnintouchpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/VPNinTouch.deb
-Size: 3694
-MD5sum: 472823d94c51e28248b73bf13d953a52
-SHA1: 16af3b2aac9caecee478ab739f784f7c6ca7dd72
-SHA256: e008f3f60da65419480cce71f3e567b18c99d6c49049586f3bacdc351e278e69
-Section: Tweaks
-Description: Free Premium VPN in Touch, It doesn't bypass the data limit, only cracks premium.
-Author: SarahH12099
-Name: VPN in Touch++
 
 Package: net.hollr2099.vpnpp
 Version: 1.0.0.0
