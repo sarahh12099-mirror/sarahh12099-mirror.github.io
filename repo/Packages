@@ -545,22 +545,6 @@ Description: No startup ad and no banner ad on Happy Chick Emulator
 Author: SarahH12099
 Name: Happy Chick++
 
-Package: net.hollr2099.hexatechpp
-Version: 1.0.0.9
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/Hexatech.deb
-Size: 3740
-MD5sum: 32667fda2e7ba8c3c2cb225a3cf8ccc1
-SHA1: 54213939e904316a9475de941b711a4422369726
-SHA256: 05a4c39aec06e7b47c456243d93c6954e2a8f5b4d4bcd039faabf83a633844f2
-Section: Tweaks
-Description: Free Premium Hexatech
-Author: SarahH12099
-Name: Hexatech++
-
 Package: net.hollr2099.infuse5pp
 Version: 1.0.0.0
 Architecture: iphoneos-arm
