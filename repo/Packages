@@ -1263,16 +1263,16 @@ Author: SarahH12099
 Name: YouCam Perfect++
 
 Package: net.hollr2099.youtubemusicpp
-Version: 1.0.2.6
+Version: 1.0.2.7
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 372
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/YouTubeMusic.deb
-Size: 66134
-MD5sum: ca417f7fe86a963930a80cab9e58085f
-SHA1: db671444ada9daac64a6406a72444e683a73b84a
-SHA256: cec6d72baf70ad2ad4729cc7a6d2e401bc7455b5c0dfc7c68fc006d9b8d17aeb
+Size: 66158
+MD5sum: 9fb5ef64644d665da3ef67e308e31d95
+SHA1: 9698f67fd0f57e7fbc61e115c1eb10ae5a3b0831
+SHA256: 7b802843ea3f404189ae8d75ead9255db094ef87b5ebc094e581afd7a5472851
 Section: Tweaks
 Description: No ads, background playback, double tap to skip, audio only mode buttons, no get premium banner in account settings, no age check, no content check, no upsell notifications, no upsell popups on YouTube Music
 Author: SarahH12099
