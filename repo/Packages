@@ -481,16 +481,16 @@ Author: SarahH12099
 Name: Flightradar24++
 
 Package: net.hollr2099.flopp
-Version: 1.0.0.9
+Version: 1.0.1.0
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 368
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/Flo.deb
-Size: 64412
-MD5sum: 00731f2f5aa2cf289f3c135e74d4cc16
-SHA1: becd60435012d03f64e72a6cdc4b8548cbf1a89b
-SHA256: f66914a49c0e7e9c8fc537914566bd50f3deb87c3cbab4c8cfe5aa8b02560d60
+Size: 64328
+MD5sum: 688a5b39dab0234240d4d64be82fa88f
+SHA1: 75f937fdeb63ea31c5ad2c301ce97a8485d3b852
+SHA256: 72e68ee672bc0a6edf588c6c6a1fa0041b5eb99b0670b7229e21353511a6f58f
 Section: Tweaks
 Description: Free Premium Flo Period & Ovulation Tracker
 Author: SarahH12099
