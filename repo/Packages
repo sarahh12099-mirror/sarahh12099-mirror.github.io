@@ -709,23 +709,6 @@ Description: No ads, no share popups and no rate poups on Merriam-Webster Dictio
 Author: SarahH12099
 Name: Merriam-Webster++
 
-Package: net.hollr2099.moderndock
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
-Conflicts: io.sarahh12099.moderndock
-Filename: ./debs/ModernDock.deb
-Size: 1970
-MD5sum: 870c7a152da84ba007ef22cfc76305a7
-SHA1: 50f3cf54cbc0ef7daec6693c3e6fe94c8978a88e
-SHA256: 6a5ee6054b28b71ca3b87e9e89c2e32f3ca96e3287dee881983649a55cd96b62
-Section: Tweaks
-Description: iPhone X style dock for other iDevices
-Author: SarahH12099
-Name: Modern Dock
-
 Package: net.hollr2099.modernstatusbar
 Version: 1.0.0.1
 Architecture: iphoneos-arm
