@@ -1,1279 +1,1279 @@
-Package: net.hollr2090.lifecyclepp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/LifeCycle.deb
-Size: 3794
-MD5sum: 24d1196e40c423b3bf3f247d5794f8f5
-SHA1: 9c4947105596ff962bed671e299ff52c2b35bd1c
-SHA256: 4f5d52ea55d0e2755fb741704a8cb278fb60a32dd29890a332bf75e17068d745
-Section: Tweaks
-Description: Free Premium Life Cycle
-Author: SarahH12099
-Name: Life Cycle++
-
 Package: net.hollr2099.1passwordpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: 1Password++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium 1Password
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/1Password.deb
 Size: 3264
 MD5sum: 43c2053298df94d36253a04181e6ec64
 SHA1: a9f7a910b16b1af540da7edcf7fef4e134035808
 SHA256: 2d38496fd0e0ca9f20a6c5c615819b81ba04cf95f372cd1200f8479e4732a49d
-Section: Tweaks
-Description: Free Premium 1Password
-Author: SarahH12099
-Name: 1Password++
 
 Package: net.hollr2099.365scorespp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: 365Scores++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on 365Scores
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/365Scores.deb
 Size: 3736
 MD5sum: 3a0a37d8bccf092c5e5e699aaa0dc31d
 SHA1: a61bcf51eab3734f65d7d163e8e0ac339cb7c11d
 SHA256: 4f2d2b01fddc2b33d516055a2f05a0563a97b12dd9389bfba56df8c3af12237e
-Section: Tweaks
-Description: No ads on 365Scores
-Author: SarahH12099
-Name: 365Scores++
 
 Package: net.hollr2099.accuweatherpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: AccuWeather++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Platinum AccuWeather: Weather Radar
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 136
 Filename: ./debs/AccuWeather.deb
 Size: 4140
 MD5sum: b8bc1eae70df75ec5299dc6a6cc336f2
 SHA1: 85891ea2e4c06d2374072fcc1ad8e76762cb40a4
 SHA256: 0dd1aed23bc9122e007d59984aec1b54901fac75afa4d39b38da31f9d7367807
-Section: Tweaks
-Description: Free Platinum AccuWeather: Weather Radar
-Author: SarahH12099
-Name: AccuWeather++
 
 Package: net.hollr2099.activatorpp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Activator++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No Ads On Activator From Cydia
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
 Filename: ./debs/Activator.deb
 Size: 4056
 MD5sum: b3f67b87b1cbf5114f98b78b67eff298
 SHA1: da27f96534d746afd5837ead61c5eeb0213866e4
 SHA256: bbd4ccf1090637cbb28e2511708a7fedfb70df3458af2eed02e96f3b91dbccc9
-Section: Tweaks
-Description: No Ads On Activator From Cydia
-Author: SarahH12099
-Name: Activator++
 
 Package: net.hollr2099.adguardpp
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: AdGuard++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium AdGuard
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.2
+Installed-Size: 136
 Filename: ./debs/AdGuard.deb
 Size: 3910
 MD5sum: 8f18e29a2970ff68516cab42614cd572
 SHA1: c471cae7f56f7a241199b42949512af0953de0b5
 SHA256: f61d54670a2a461cf7b52d6c5009baac43ed5e443672e62f4b5ff037fd2b2613
-Section: Tweaks
-Description: Free Premium AdGuard
-Author: SarahH12099
-Name: AdGuard++
 
 Package: net.hollr2099.adobepremiererushccpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Adobe Premiere Rush CC++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Subscription On Adobe Premiere Rush CC
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/AdobePremiereRushCC.deb
 Size: 3572
 MD5sum: 79bc240cf7d164f642a9cfb6281fcb6f
 SHA1: 003b29bcea0bf6ba3ec303b770ef8a1b6c401374
 SHA256: 3468da3d938b000d543339a4950d763cd74154fbbed496f1c40cf9fe063a3120
-Section: Tweaks
-Description: Free Subscription On Adobe Premiere Rush CC
-Author: SarahH12099
-Name: Adobe Premiere Rush CC++
 
 Package: net.hollr2099.alertspropp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: AlertsPro++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium AlertsPro
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/AlertsPro.deb
 Size: 3070
 MD5sum: da17d0feb7d65d375c8631248d31d02d
 SHA1: ee2e5bac62ac5df865c1564f1e71238aed993179
 SHA256: 596c10766660ecab73bc28d4632f520bfa4563a1bfd79b9addd24cd71b95133d
-Section: Tweaks
-Description: Free Premium AlertsPro
-Author: SarahH12099
-Name: AlertsPro++
 
 Package: net.hollr2099.alltrailspp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: AllTrails++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro AllTrails
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/AllTrails.deb
 Size: 3076
 MD5sum: e413661b133d25499633c24a832e4eb3
 SHA1: f3015c541014e4e857cb56369e5bfd57b17d296b
 SHA256: 3f2700939222399b078a06d1ea4893374f237aac3d346f0fec37f4aec054eb52
-Section: Tweaks
-Description: Free Pro AllTrails
-Author: SarahH12099
-Name: AllTrails++
 
 Package: net.hollr2099.animegtpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: AnimeGT++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No Ads On AnimeGT
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 136
 Filename: ./debs/AnimeGT.deb
 Size: 3826
 MD5sum: 7cf79fb19fbdb73acac6e06fcda99645
 SHA1: 1ac9d3d590e71f4448b5764bafb10c10f1ed6a28
 SHA256: 91a6d16238491aaf303bf71ee8ac17dba5516242e4252f0585303519e468fddb
-Section: Tweaks
-Description: No Ads On AnimeGT
-Author: SarahH12099
-Name: AnimeGT++
 
 Package: net.hollr2099.appswitchergrid
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: AppSwitcher Grid
 Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Architecture: iphoneos-arm
+Description: Turns AppSwitcher into a 2x2 grid
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.2
+Installed-Size: 136
 Filename: ./debs/AppSwitcherGrid.deb
 Size: 2384
 MD5sum: 8fc5a0986dd1a664d0f583c7f8c906ea
 SHA1: 9196f25fbe2f889b0f0dc1bb1398e17ed6fb998c
 SHA256: 50611f487e52c005d66bcf7cdc89cb0d795a992b3be753e13a2463035278f0ba
-Section: Tweaks
-Description: Turns AppSwitcher into a 2x2 grid
-Author: SarahH12099
-Name: AppSwitcher Grid
 
 Package: net.hollr2099.audiomackpp
-Version: 1.0.0.6
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: Audiomack++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Audiomack
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.6
+Installed-Size: 136
 Filename: ./debs/Audiomack.deb
 Size: 3852
 MD5sum: a1b94ea592e4381ce0c71435a31bad6b
 SHA1: 5faacdcfdca37d1615e0cb6a841abf45bfeeb16e
 SHA256: c466bea8b0a32de408d8c4c368bd3a974e301293f1253dbfc7cef0f42b1af393
-Section: Tweaks
-Description: Free Premium Audiomack
-Author: SarahH12099
-Name: Audiomack++
 
 Package: net.hollr2099.bearpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Bear++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Bear
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Bear.deb
 Size: 3494
 MD5sum: e1fc0c0ab5a07ccd61f0a0cfa57ff81f
 SHA1: c9c18733614885ce5ff6124a7f746b2aa38a4e3b
 SHA256: a6c515a7295e4ae9bd7dd437d20d967f1cb7b5e61ca475763511eb85dfb873ba
-Section: Tweaks
-Description: Free Pro Bear
-Author: SarahH12099
-Name: Bear++
 
 Package: net.hollr2099.calmpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Calm++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Calm
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Calm.deb
 Size: 3638
 MD5sum: c4a125365bc07c52360393b26d0c1ba4
 SHA1: ee6332addb132ea926a2e8863bcf10c43bea042e
 SHA256: 4258c2dcb6a4fb404c5eb65c65c98b922f6270c91ef81bc92d4a9bb4d84e5ee6
-Section: Tweaks
-Description: Free Premium Calm
-Author: SarahH12099
-Name: Calm++
 
 Package: net.hollr2099.carbonpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Carbon++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Everything Unlocked on Carbon - B&W Photo Editor
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Carbon.deb
 Size: 4376
 MD5sum: db57ccc70e6e0fa6ac8b51b4207a300b
 SHA1: df521037192529a1c594f04ed4869ce6e92f8439
 SHA256: 211f30fe2861f02dcaaa331925b61703a2711fb98ad9bef203b4a39ae6e57af9
-Section: Tweaks
-Description: Everything Unlocked on Carbon - B&W Photo Editor
-Author: SarahH12099
-Name: Carbon++
 
 Package: net.hollr2099.colorfypp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Colorfy++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Colorfy
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Colorfy.deb
 Size: 4594
 MD5sum: 2500379c24a207e995571a007db61e15
 SHA1: c56b3ba3a8faa0024bbbf8aaac995096cdc9c538
 SHA256: b22c3d8b15736328fe76920d2d9fa304cd4d5f9fe7dcd700d11dcf03b22e1cca
-Section: Tweaks
-Description: Free Premium Colorfy
-Author: SarahH12099
-Name: Colorfy++
 
 Package: net.hollr2099.comicboxpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Comic Box++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on Comic Box
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/ComicBox.deb
 Size: 4538
 MD5sum: 3b9327ab6dda695c4a21de5a43aa07a5
 SHA1: 694c351d183dac8312aa88293d2dcd6039699acd
 SHA256: ac5ee8567fd8baaca0b981b89ccb51ae5f25d02f0112956e20fd56fcedd1c097
-Section: Tweaks
-Description: No ads on Comic Box
-Author: SarahH12099
-Name: Comic Box++
 
 Package: net.hollr2099.crunchyrollpp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Crunchyroll++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No Ads, Fixed High Quality on Crunchyroll
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
 Filename: ./debs/Crunchyroll.deb
 Size: 4302
 MD5sum: 55fa51965604e9b923864d5cdd64bb6b
 SHA1: 23d7e704fafd270a16eb588dc363d3db25a606f0
 SHA256: 18d5ef2310ce375c4aea8ad876da3f426a112bfb2e7d7465146631091b11bad8
-Section: Tweaks
-Description: No Ads, Fixed High Quality on Crunchyroll
-Author: SarahH12099
-Name: Crunchyroll++
 
 Package: net.hollr2099.cutecutpp
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Cute CUT++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Cute CUT
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.2
+Installed-Size: 117
 Filename: ./debs/CuteCUT.deb
 Size: 3632
 MD5sum: e52178fa2ed076b47b322e7b827e50dd
 SHA1: 44212b835783d420f70ab7679ed4dbaff76fba1d
 SHA256: 6387146aec081fabf767d2918c8745833e76d5c0c9013c73e0770d0e73903ab2
-Section: Tweaks
-Description: Free Pro Cute CUT
-Author: SarahH12099
-Name: Cute CUT++
 
 Package: net.hollr2099.cyclespp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Cycles++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.cyclespp
+Architecture: iphoneos-arm
+Description: Free Premium Cycles - Period Tracker
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/Cycles.deb
 Size: 3124
 MD5sum: ba4eaa5098cfc0e24d31394cf5b80382
 SHA1: 6f662d164ce438504002afa40537489e54066601
 SHA256: 476ecab213c4a1331dea4be6718f84654ce178838f0b6963567f7290adfaef61
-Section: Tweaks
-Description: Free Premium Cycles - Period Tracker
-Author: SarahH12099
-Name: Cycles++
 
 Package: net.hollr2099.cydiabackgroundrefresh
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Cydia Background Refresh
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Enable background refresh on Cydia
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/CydiaBackground.deb
 Size: 2678
 MD5sum: 86d9ffb3dfad4e43371898c6a649aa09
 SHA1: 368dd8e6a315e57511fb4194dbaee9abf7289486
 SHA256: 201e9ba12067f6d6d21f4708348c7bc7c932de8e1087bb6725a54e404cef66e4
-Section: Tweaks
-Description: Enable background refresh on Cydia
-Author: SarahH12099
-Name: Cydia Background Refresh
 
 Package: net.hollr2099.cydiaviewhiddenpackages
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Cydia View Hidden Packages
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: View hidden packages on Cydia
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/CydiaView.deb
 Size: 2534
 MD5sum: 4687a9ec0206cd81efbf4e1e971811f6
 SHA1: 5b2db96bf0f60dbd0b8a0fcf7fdc16a4137f37f7
 SHA256: d716eec74becfede559a5c18e12a4a6c450a954c71fa4e68b6a36702f0329993
-Section: Tweaks
-Description: View hidden packages on Cydia
-Author: SarahH12099
-Name: Cydia View Hidden Packages
 
 Package: net.hollr2099.darkroompp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Darkroom++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Darkroom - Photo Editor
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
 Filename: ./debs/Darkroom.deb
 Size: 3620
 MD5sum: a484748330a6bbe39322c252673fa143
 SHA1: d2860b837659445d519d2ce13970ef774ac8460f
 SHA256: b7845220f022c15619e26225c975dff3681198ccdd0c6851881c67f8ef82d0f3
-Section: Tweaks
-Description: Free Premium Darkroom - Photo Editor
-Author: SarahH12099
-Name: Darkroom++
 
 Package: net.hollr2099.dnsoverridepp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: DNS Override++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium DNS Override
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/DNSOverride.deb
 Size: 3690
 MD5sum: 9e8d09bedcfbe20beb2e1b5ec057210f
 SHA1: cbcdf300e3f17746e8d5b5bb23a1888bd236cbf6
 SHA256: 79cbe7e80f40be5915ed776ffa58868649891f800a490a62795eda70328bb286
-Section: Tweaks
-Description: Free Premium DNS Override
-Author: SarahH12099
-Name: DNS Override++
 
 Package: net.hollr2099.eggzypp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Eggzy++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Eggzy - Focus & Time Keeper
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Eggzy.deb
 Size: 3890
 MD5sum: 736d31182273fe42ff45f67f5d87213f
 SHA1: 24d9ee367e81752258920f27e2a616d97e343103
 SHA256: 78f300a8319cd50365e34df98bcf8111b1e647afed9db8176db35581a2e76a95
-Section: Tweaks
-Description: Free Premium Eggzy - Focus & Time Keeper
-Author: SarahH12099
-Name: Eggzy++
 
 Package: net.hollr2099.emulsiopp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Emulsio++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Emulsio
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/Emulsio.deb
 Size: 4176
 MD5sum: 202b2bb4d20b42145cd0ff0033979559
 SHA1: 7b4e9237d3032c8997e80e18c4f99110f2221824
 SHA256: 847f684f0e7b54f7a661354e5ad76b9da2d80f8b9303f8169488d7c6bb011d74
-Section: Tweaks
-Description: Free Pro Emulsio
-Author: SarahH12099
-Name: Emulsio++
 
 Package: net.hollr2099.evepp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Eve++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.evepp
+Architecture: iphoneos-arm
+Description: Free Premium & All Gems Unlocked on Eve - Period Tracker
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 69
 Filename: ./debs/Eve.deb
 Size: 3364
 MD5sum: 079ff465dc19ae19def62cbdb4bcfde5
 SHA1: 6ca5c90e3a2ebbef5fc30e0b2e616ac781fd57a8
 SHA256: 2a8b6538e65641275c3e4bd9659c614bea249a247be03c1e392a84fee6db1dbc
-Section: Tweaks
-Description: Free Premium & All Gems Unlocked on Eve - Period Tracker
-Author: SarahH12099
-Name: Eve++
 
 Package: net.hollr2099.fancypantsadventurespp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Fancy Pants Adventures++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium, All Worlds, All Clothes
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/FancyPants.deb
 Size: 3474
 MD5sum: 80aa14519ab3883fcb959b27dbdeec3b
 SHA1: 58e616b29b002e8ed78b4d3c144436e5f7c16ff2
 SHA256: cada22d4e1e3f7857ce66a6677055bea69feff27c11e9578816cd1cadb469729
-Section: Tweaks
-Description: Free Premium, All Worlds, All Clothes
-Author: SarahH12099
-Name: Fancy Pants Adventures++
 
 Package: net.hollr2099.firstvpnpp
-Version: 1.0.0.6
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: FirstVPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium FirstVPN
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.6
+Installed-Size: 117
 Filename: ./debs/FirstVPN.deb
 Size: 4986
 MD5sum: 4bb84fb5be8e98883d03ad3f969f415e
 SHA1: 771bd4ddba508722253360f36dbb2660fca3ffab
 SHA256: 16f2c5bc415aedbd00263528f77d0e0a8566da1db21c5e77f4eafc8a5ffe124f
-Section: Tweaks
-Description: Free Premium FirstVPN
-Author: SarahH12099
-Name: FirstVPN++
 
 Package: net.hollr2099.flightradar24pp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Flightradar24++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads, no upgrade button, all features in settings unlocked, more flight details, unlimited flight playback and a few more things. This doesn't bypass thing like alert limits and etc because of subscription issues.
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Flightradar24.deb
 Size: 4510
 MD5sum: e24bc90931a5c7ddd1a22df45911e7f2
 SHA1: fd046eb798001d0f62377258b30418707ef65421
 SHA256: 5d66066fc8996008e4acc9769a549be35030951f7a387f4e9619006f4c791b5e
-Section: Tweaks
-Description: No ads, no upgrade button, all features in settings unlocked, more flight details, unlimited flight playback and a few more things. This doesn't bypass thing like alert limits and etc because of subscription issues.
-Author: SarahH12099
-Name: Flightradar24++
 
 Package: net.hollr2099.flopp
-Version: 1.0.1.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 368
+Name: Flo++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Flo Period & Ovulation Tracker
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.1.0
+Installed-Size: 368
 Filename: ./debs/Flo.deb
 Size: 64328
 MD5sum: 688a5b39dab0234240d4d64be82fa88f
 SHA1: 75f937fdeb63ea31c5ad2c301ce97a8485d3b852
 SHA256: 72e68ee672bc0a6edf588c6c6a1fa0041b5eb99b0670b7229e21353511a6f58f
-Section: Tweaks
-Description: Free Premium Flo Period & Ovulation Tracker
-Author: SarahH12099
-Name: Flo++
 
 Package: net.hollr2099.geozillapp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: GeoZilla++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium GeoZilla
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/GeoZilla.deb
 Size: 3704
 MD5sum: 40d0fff0951a464af17050e93b97918f
 SHA1: 1408af483cf5e5200a178472a57cb930df913186
 SHA256: b6dafa6e500a5599cb2dde7aa7c6c8cb35a932d5ebc78edcf9e08014627e488e
-Section: Tweaks
-Description: Free Premium GeoZilla
-Author: SarahH12099
-Name: GeoZilla++
 
 Package: net.hollr2099.glowpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Glow++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.glowpp
+Architecture: iphoneos-arm
+Description: Free Premium on Glow, Period & Fertility Tracker
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/Glow.deb
 Size: 3384
 MD5sum: 30c46cc1d8bb7b9ad87bd3890876084e
 SHA1: 42d4774860ff5843ecec9631800d51a32ad5b5c9
 SHA256: 84f1ef11c5e42dc76033bdb8c648e7f75d46872100c9b7ced4ba6709f8c3b7e0
-Section: Tweaks
-Description: Free Premium on Glow, Period & Fertility Tracker
-Author: SarahH12099
-Name: Glow++
 
 Package: net.hollr2099.happychickpp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Happy Chick++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No startup ad and no banner ad on Happy Chick Emulator
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
 Filename: ./debs/HappyChick.deb
 Size: 3908
 MD5sum: 70bec5f5cd77dfb8961c7513d9bab08a
 SHA1: 011cff9b83a41c64803ac659c13e24b907a5fc71
 SHA256: 9bdf56b0009c8f766be397144eb22a4f382757068fabee8ac28408e3b4b030fc
-Section: Tweaks
-Description: No startup ad and no banner ad on Happy Chick Emulator
-Author: SarahH12099
-Name: Happy Chick++
 
 Package: net.hollr2099.infuse5pp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Infuse 5++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Infuse 5
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Infuse5.deb
 Size: 3812
 MD5sum: a18fe70401ac10a167e7529fedfabfea
 SHA1: bff33167d49c04fcf4ae33b7d6efc34d157478c0
 SHA256: 4f96472811d1a88e4a300a997351d14242e4036f7c33e6b54ae3535ae78e3b20
-Section: Tweaks
-Description: Free Pro Infuse 5
-Author: SarahH12099
-Name: Infuse 5++
 
 Package: net.hollr2099.infuse6pp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Infuse 6++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.infuse6pp
+Architecture: iphoneos-arm
+Description: Free Pro Infuse 6
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: ./debs/Infuse6.deb
 Size: 3234
 MD5sum: 6ff2bdccfe8a3cfdd1c282c961d63c94
 SHA1: 15a40a9b391189bbc1c6a023112db515d3ee1d05
 SHA256: 467d08d0fd81707b5610bb3e07acda1b8155b26303e0a5a01f383eb1ce4623ab
-Section: Tweaks
-Description: Free Pro Infuse 6
-Author: SarahH12099
-Name: Infuse 6++
 
 Package: net.hollr2099.iterminalpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: iTerminal++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on iTerminal
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/iTerminal.deb
 Size: 4356
 MD5sum: 448efcc0670bed0a6a41906a77ecc13f
 SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
 SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
-Section: Tweaks
-Description: No ads on iTerminal
-Author: SarahH12099
-Name: iTerminal++
 
 Package: net.hollr2099.kinemasterpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: KineMaster++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Paid Subscription On KineMaster
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/KineMaster.deb
 Size: 3682
 MD5sum: 4e37c67150c31aee9bbd88b493cb75a5
 SHA1: 3540cec6bdf0ff2b1a177563eba1d1e965737293
 SHA256: f41290d5071d85badfbd1dbc21ed48ec6ef2cbcafc3690f8dbfa78cf797b5fa3
-Section: Tweaks
-Description: Free Paid Subscription On KineMaster
-Author: SarahH12099
-Name: KineMaster++
 
 Package: net.hollr2099.lastpasspp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: LastPass++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium LastPass
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/LastPass.deb
 Size: 3038
 MD5sum: 399d3792a5c143ccc7184307d637b2f4
 SHA1: 495cf53266aadc4e3c572e93b2b0d979968d0719
 SHA256: a2c1df9682f5922a70578b54b181cc52954711e2e5d9f2ba10915d7194dd6b4b
-Section: Tweaks
-Description: Free Premium LastPass
-Author: SarahH12099
-Name: LastPass++
 
 Package: net.hollr2099.lifepp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Life++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.lifepp
+Architecture: iphoneos-arm
+Description: Free Premium Life - Period Tracker Calendar
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: ./debs/Life.deb
 Size: 3062
 MD5sum: 43fdaf1c2b1a2768ed948d9b9bb3e0cd
 SHA1: b8fa9ef689a66f6178913f217ef89a5992fe0108
 SHA256: d96a3a9ff1375ab7dfc1ec9e4b279afb001f52f3c901b2e1db97b8c8c9f9e33d
-Section: Tweaks
-Description: Free Premium Life - Period Tracker Calendar
+
+Package: net.hollr2090.lifecyclepp
+Name: Life Cycle++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Life Cycle
+Maintainer: SarahH12099
 Author: SarahH12099
-Name: Life++
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
+Filename: ./debs/LifeCycle.deb
+Size: 3794
+MD5sum: 24d1196e40c423b3bf3f247d5794f8f5
+SHA1: 9c4947105596ff962bed671e299ff52c2b35bd1c
+SHA256: 4f5d52ea55d0e2755fb741704a8cb278fb60a32dd29890a332bf75e17068d745
 
 Package: net.hollr2099.livewallpapersformepp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Live Wallpapers for Me++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Live Wallpapers for Me
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/LiveWallpapersforMe.deb
 Size: 4246
 MD5sum: c8be05f91e67f49b761ef3cd2d65ec71
 SHA1: 3b3e1846b5ec5053a1c6c3f97cc14814f6640afb
 SHA256: c2c7aa665795a6da797cbd09a136f0bddbad4752437fe82e0e7341b94d2a109f
-Section: Tweaks
-Description: Free Premium Live Wallpapers for Me
-Author: SarahH12099
-Name: Live Wallpapers for Me++
 
 Package: net.hollr2099.magiccleanerpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Magic Cleaner++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on Magic Cleaner
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/MagicCleaner.deb
 Size: 3650
 MD5sum: 22fa6bed33ea650e1b7587abc19fbdef
 SHA1: 728be8a3f817c57a1143cacd98368203949064d4
 SHA256: b6d1fbed370fb6d874ba4eb179f642b9736242d86dfeaf47a488ad83d002a313
-Section: Tweaks
-Description: No ads on Magic Cleaner
-Author: SarahH12099
-Name: Magic Cleaner++
 
 Package: net.hollr2099.memoradopp
-Version: 1.0.0.4
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Memorado++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.memoradopp
+Architecture: iphoneos-arm
+Description: Free Premium Memorado
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.4
+Installed-Size: 69
 Filename: ./debs/Memorado.deb
 Size: 3432
 MD5sum: 7b154fba9556673a09398d0edf6e5f16
 SHA1: 969f774acf1be5a4c67fce1465e1cc43282df7dd
 SHA256: 8d632702f242ea260cebbcf64b9b5881511183f48ab7a17d2dde85766f5ba49c
-Section: Tweaks
-Description: Free Premium Memorado
-Author: SarahH12099
-Name: Memorado++
 
 Package: net.hollr2099.merriamwebsterpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Merriam-Webster++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.merriamwebsterpp
+Architecture: iphoneos-arm
+Description: No ads, no share popups and no rate poups on Merriam-Webster Dictionary
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/MerriamWebster.deb
 Size: 3332
 MD5sum: 1eb099b7315902f9606d3139c1cb2cb2
 SHA1: 255826039f8389e7704f37a8a09066db05b30e50
 SHA256: 9ca00100ca086431605ba1749d1f3c1990eb493f708a03be294649f92dffdebf
-Section: Tweaks
-Description: No ads, no share popups and no rate poups on Merriam-Webster Dictionary
-Author: SarahH12099
-Name: Merriam-Webster++
 
 Package: net.hollr2099.modernstatusbar
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Modern Status Bar
 Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
 Conflicts: io.sarahh12099.modernstatusbar
+Architecture: iphoneos-arm
+Description: More Modern Status Bar for iPhone
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: ./debs/ModernStatusBar.deb
 Size: 1964
 MD5sum: fffc23eca87a5b6a261c9a66c1061da0
 SHA1: 53d3a2f9248924e0473378110f9548834a0bbc83
 SHA256: f438153c5b5775b9a3fdd5e43e913d1439da2b894bc9d316e28f88c3ed310e95
-Section: Tweaks
-Description: More Modern Status Bar for iPhone
-Author: SarahH12099
-Name: Modern Status Bar
 
 Package: net.hollr2099.myprivacypp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: MyPrivacy++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.myprivacypp
+Architecture: iphoneos-arm
+Description: Free Premium MyPrivacy
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/MyPrivacy.deb
 Size: 3102
 MD5sum: ee0fdec4171ed52d158e3d0ba1d5a5e4
 SHA1: 759ba55d6822b6565b9dd3ad3d658ae8c701bbc0
 SHA256: 4581717ae91c932f031673a6189c8bfe0d0325545c30767319f9b3b8fa8dfb6e
-Section: Tweaks
-Description: Free Premium MyPrivacy
-Author: SarahH12099
-Name: MyPrivacy++
 
 Package: net.hollr2099.nightskypp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Night Sky++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Night Sky
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/NightSky.deb
 Size: 4044
 MD5sum: c67e27bf56d9d0988c1a34cdacfbc5bd
 SHA1: 44ecc2ce7654f67f6ee89ad9aedcdcb67384e829
 SHA256: fb9f3a359db83e04ba2c6736471f44fdf4a7582cd725bf43c2e802ddd3cff412
-Section: Tweaks
-Description: Free Premium Night Sky
-Author: SarahH12099
-Name: Night Sky++
 
 Package: net.hollr2099.nodndlockscreen
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: No DND Lockscreen
 Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
 Conflicts: io.sarahh12099.nodndlockscreen
+Architecture: iphoneos-arm
+Description: No Do Not Disturb notification on lockscreen
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: ./debs/NoDNDLockscreen.deb
 Size: 2012
 MD5sum: 1ba8b7247c72dad02c1e45b64b6c96d3
 SHA1: 4d331e0d81fb70d9946e05aa07c09837b19dfcf7
 SHA256: acb3cdadb9fc1f577538abdb79fd82b4bf93af43576d67222d32ecfd2eec1da4
-Section: Tweaks
-Description: No Do Not Disturb notification on lockscreen
-Author: SarahH12099
-Name: No DND Lockscreen
 
 Package: net.hollr2099.officesuitepp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: OfficeSuite++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium OfficeSuite & PDF editor
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 69
 Filename: ./debs/OfficeSuite.deb
 Size: 3442
 MD5sum: 95e747e800d501ce192de02268b4127b
 SHA1: 0ec134b9b85bb935bfed92ccdb9c3258d5a475b8
 SHA256: 5d28ea1024508c1f581dacbb62654e2c3abaeeee890c184f2ac12a9236b67c25
-Section: Tweaks
-Description: Free Premium OfficeSuite & PDF editor
-Author: SarahH12099
-Name: OfficeSuite++
 
 Package: net.hollr2099.overpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Over++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Over Edit
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/Over.deb
 Size: 4042
 MD5sum: ab2ba3a25637e5fe55d68acf86be99b6
 SHA1: 595f42ec3fb977c5994c6fb083704bd74a1a5f6a
 SHA256: f8465ebd4cce112ee2134f2bdebfd9df737ec9189a4ca05dfa3ec7c477ad0b56
-Section: Tweaks
-Description: Free Pro Over Edit
-Author: SarahH12099
-Name: Over++
 
 Package: net.hollr2099.palomapp
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Paloma++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.palomapp
+Architecture: iphoneos-arm
+Description: Free Premium Paloma: Period Tracker & Diary
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.2
+Installed-Size: 69
 Filename: ./debs/Paloma.deb
 Size: 3188
 MD5sum: e6f3782ff972cf561b5b890e79abb469
 SHA1: b8956d733d21872688bd9b64147d935ffd4671bc
 SHA256: 127e6066aed0a314ea1e1454aa93e668c8f43a89d8dfee878a67a411ce1ae291
-Section: Tweaks
-Description: Free Premium Paloma: Period Tracker & Diary
-Author: SarahH12099
-Name: Paloma++
 
 Package: net.hollr2099.plexpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Plex++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Unlimited Playback on Plex
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/Plex.deb
 Size: 3528
 MD5sum: 9b4e93862d6df8e3af90b87c6f9a313a
 SHA1: 1317da72b4de998b771aea8c3a91c692ac82f509
 SHA256: d5ee446c5c8fd03738644d61dacea0e1c2f7b4f90bd210049c6ac47234358af7
-Section: Tweaks
-Description: Unlimited Playback on Plex
-Author: SarahH12099
-Name: Plex++
 
 Package: net.hollr2099.psiphonpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Psiphon++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.psiphonpp
+Architecture: iphoneos-arm
+Description: Free Premium Psiphon
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/Psiphon.deb
 Size: 3492
 MD5sum: 22fd98610f60a6589149c6b5010fd5da
 SHA1: 97741ff2c94f0f9d245aa7f729b7e801284ae3bb
 SHA256: bbe2547ad0c7578ae3380632066e1e30b6b30af1ca34735f3ed1bbf8acf1d7b7
-Section: Tweaks
-Description: Free Premium Psiphon
-Author: SarahH12099
-Name: Psiphon++
 
 Package: net.hollr2099.rainbowkeypp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: RainbowKey++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free VIP RainbowKey
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/RainbowKey.deb
 Size: 3152
 MD5sum: af53583ed535ad053be074ca3853dfe4
 SHA1: 1b4a57efe80f8b87eefc632ab361a467ad593ae3
 SHA256: 6a779fcb4cc598b4c975de290be04d90fb3626a285614cd1b618dc0be5c9e528
-Section: Tweaks
-Description: Free VIP RainbowKey
-Author: SarahH12099
-Name: RainbowKey++
 
 Package: net.hollr2099.safaribackgroundplayback
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: Safari Background Playback
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: net.hollr2099.safaripp
+Architecture: iphoneos-arm
+Description: Background Playback on Safari
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 136
 Filename: ./debs/SafariBackground.deb
 Size: 2418
 MD5sum: b48c29ecb9765d757d6c858d18277b6a
 SHA1: 53cb20d4392e0ceab6f8b8ad0b720233521481af
 SHA256: 59d708cba11a575e66272d0ced55f0ff0ad5de1579dfb5258406d40bb188dcac
-Section: Tweaks
-Description: Background Playback on Safari
-Author: SarahH12099
-Name: Safari Background Playback
 
 Package: net.hollr2099.scannerformepp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Scanner for Me++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Scanner for Me: Scan to PDF
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/ScannerforMe.deb
 Size: 4068
 MD5sum: ffbef2f7df4063327d3da886118edd68
 SHA1: 1479c16388fae2afc1a1aaa175c7aa015eb9a8a7
 SHA256: 545523809451a19695d70677888d8b0df6f68e35cda55b6bfcd8e67bbcec6134
-Section: Tweaks
-Description: Free Premium Scanner for Me: Scan to PDF
-Author: SarahH12099
-Name: Scanner for Me++
 
 Package: net.hollr2099.secureonionpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Secure Onion++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Secure Onion (Web Browser)
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/SecureOnion.deb
 Size: 3568
 MD5sum: 01332f7fc39e9e6535e7a1c51396c2a4
 SHA1: 445e8641717e533d7c41dcd5ea17cb5629e1529d
 SHA256: 78684b02920cdd8780c02a517d7bb1d9e099447c3e1cadd24e55486fac173443
-Section: Tweaks
-Description: Free Pro Secure Onion (Web Browser)
-Author: SarahH12099
-Name: Secure Onion++
 
 Package: net.hollr2099.simpleradiopp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Simple Radio++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Everything unlocked on Simple Radio - Music & News
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/SimpleRadio.deb
 Size: 3704
 MD5sum: 02a5324156c0b4c021f5a77dd1af4b67
 SHA1: 81cb1fdf590c5bc22024c8be39c01b2c5838d77a
 SHA256: 97ec20b6cecb6e8179a01ce906b5e9416a67fddf1452f93885fe5c8e28c92811
-Section: Tweaks
-Description: Everything unlocked on Simple Radio - Music & News
-Author: SarahH12099
-Name: Simple Radio++
 
 Package: net.hollr2099.sleepcyclepp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Sleep Cycle++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Sleep Cycle
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/SleepCycle.deb
 Size: 3778
 MD5sum: f00a2eefff5c4510a59fa40b165b9cab
 SHA1: 322b4d751abd31ecf83246f8f12599444310d243
 SHA256: d367d75cf42fa8a9c02176ccac6960b257ef18ffd5b053d2167ca1b69a2a8f0f
-Section: Tweaks
-Description: Free Premium Sleep Cycle
-Author: SarahH12099
-Name: Sleep Cycle++
 
 Package: net.hollr2099.sleepzypp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Sleepzy++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Sleepzy
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Sleepzy.deb
 Size: 3936
 MD5sum: 49c1ad154059ee569cebc01b6b8d2346
 SHA1: 901e66908f41564a264d0cf016ecafddadb68da4
 SHA256: 5bd98f141529f01be4677bc410e7e5d80d6cb7a5637d2cffa1f305f37b0bdab5
-Section: Tweaks
-Description: Free Premium Sleepzy
-Author: SarahH12099
-Name: Sleepzy++
 
 Package: net.hollr2099.solovpnpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Solo VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.solovpnpp
+Architecture: iphoneos-arm
+Description: Free Premium Solo VPN
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 69
 Filename: ./debs/SoloVPN.deb
 Size: 3532
 MD5sum: 9a4408f0f0948c42bdea692dcb050ae1
 SHA1: 51271b90cd79ee5e325a511eafaeafdc8a8200d2
 SHA256: 9a65d8d011d5a1933b36ff98a138e6a031cd2052c25b39c8b0fc73f419c638b2
-Section: Tweaks
-Description: Free Premium Solo VPN
-Author: SarahH12099
-Name: Solo VPN++
 
 Package: net.hollr2099.speedtestpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Speedtest++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on Speedtest
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/Speedtest.deb
 Size: 3574
 MD5sum: 632ab742962b71920bbc4e262d2e2e06
 SHA1: 1bfbc5c4fee6354a1042c1ef65e1b7b23097f482
 SHA256: 2c4fdcec01e920242e5cead940d0e14d91074fb7feb41475f0a5f5e58994fb63
-Section: Tweaks
-Description: No ads on Speedtest
-Author: SarahH12099
-Name: Speedtest++
 
 Package: net.hollr2099.starvpnpp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Star VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: io.sarahh12099.starvpnpp
+Architecture: iphoneos-arm
+Description: Free Premium Star VPN
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 69
 Filename: ./debs/StarVPN.deb
 Size: 3552
 MD5sum: 5a788aa2521e5f12978d3d1106763811
 SHA1: ad55cd64042f49776ca1223a465070d0d2623e5a
 SHA256: fe8b43f02af4e5ff3f27221af9aa98c94b9ab321c3b6b8162b0214141ef1d957
-Section: Tweaks
-Description: Free Premium Star VPN
-Author: SarahH12099
-Name: Star VPN++
 
 Package: net.hollr2099.touchvpnpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Touch VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Elite Touch VPN
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/TouchVPN.deb
 Size: 3806
 MD5sum: b16e925ad21459f22c3874521d522029
 SHA1: c381f00f1cc0e2d3e7258ec3e633bd94d787ce2f
 SHA256: 665d4d74addf7cb7b84f36c39bf89d14a628546fd4ef016372e9b8b930946621
-Section: Tweaks
-Description: Free Elite Touch VPN
-Author: SarahH12099
-Name: Touch VPN++
 
 Package: net.hollr2099.tubiopp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: Tubio++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Tubio
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 136
 Filename: ./debs/Tubio.deb
 Size: 4420
 MD5sum: 988c80e20b9b26890d69a977b5366a08
 SHA1: 67a8ff80fa590fd7e236cbbef4f48c1956fdc718
 SHA256: e1fd217ad5c26d64c46ba61236435938d4a2e78ab5653b1ef4c62c516e6cda86
-Section: Tweaks
-Description: Free Premium Tubio
-Author: SarahH12099
-Name: Tubio++
 
 Package: net.hollr2099.turbovpnpp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
+Name: Turbo VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free VIP Turbo VPN
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 69
 Filename: ./debs/TurboVPN.deb
 Size: 4240
 MD5sum: 10edec82b82de78b77badc1a5cc9e4ac
 SHA1: 2566691001fc18c61c1acd7f750e21b4ac9ab95d
 SHA256: 2ccfd1ef8e4ab7ef08597c709a0ca302f71b6579767e8a02d2bbd2d771b81a04
-Section: Tweaks
-Description: Free VIP Turbo VPN
-Author: SarahH12099
-Name: Turbo VPN++
 
 Package: net.hollr2099.twitchpp
-Version: 1.0.1.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: Twitch++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No video ads on Twitch
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.1.2
+Installed-Size: 136
 Filename: ./debs/Twitch.deb
 Size: 3810
 MD5sum: 01dfdb7a6dc9cd923d649d91dbfaa706
 SHA1: 8fd49444dd15d48e666ee6fb7c1a493bc5e093a6
 SHA256: a7e78e79dc5aad736b19a80f25c25c00a2c850da39405720709a16aea52c3c62
-Section: Tweaks
-Description: No video ads on Twitch
-Author: SarahH12099
-Name: Twitch++
 
 Package: net.hollr2099.twitterrificpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Twitterrific++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on Twitterrific
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/Twitterrific.deb
 Size: 3518
 MD5sum: a1db7c505de2e3af705d7011af2005eb
 SHA1: b0edfb24e336ed38e1d3a4aaf3b6959c8361f993
 SHA256: e328eb7989981dd7cc73c3440d17ca039435cf8d9b2909850363cad86329aa52
-Section: Tweaks
-Description: No ads on Twitterrific
-Author: SarahH12099
-Name: Twitterrific++
 
 Package: net.hollr2099.videocroppp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Video Crop++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Video Crop
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/VideoCrop.deb
 Size: 3638
 MD5sum: e7c3d6213170290be099300a8806ff88
 SHA1: 077fb1149070f00e32787ac3d6ecb018df9c988e
 SHA256: a99ed8d87ab008ec882dcabe68981a1190c92524e21cb691cf7424ab38934e56
-Section: Tweaks
-Description: Free Pro Video Crop
-Author: SarahH12099
-Name: Video Crop++
 
 Package: net.hollr2099.videoshoppp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Videoshop++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Videoshop
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/Videoshop.deb
 Size: 4258
 MD5sum: df0eb745e21cbbee2f0dea3b219c02b8
 SHA1: ac225a8e889220b79c4ffc66913129154d4cfdfc
 SHA256: 6f734b52eb4311d7fb6eaafb1e3ffb49c72bbc9cd4356d8acc3126178a23a3c3
-Section: Tweaks
-Description: Free Pro Videoshop
-Author: SarahH12099
-Name: Videoshop++
-
-Package: net.hollr2099.vpncatpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/VPNCat.deb
-Size: 3550
-MD5sum: 6edfcc4897d2df0400af20c8f90f4e67
-SHA1: 5a472f7fad65dd50dd062c561e0325a8bf4090a6
-SHA256: 104be59084138dbc2ff40c4946f3c64dd35f97d8d1f8b83901c2cee1241503b6
-Section: Tweaks
-Description: No ads on VPN cat master - express web proxy
-Author: SarahH12099
-Name: VPN Cat++
 
 Package: net.hollr2099.vpnpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: #VPN - Wi-Fi Hotspot Security++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium #VPN - Wi-Fi Hotspot Security
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
 Filename: ./debs/VPN.deb
 Size: 3950
 MD5sum: 8ee39dc997616035373be88e1cba22a7
 SHA1: ad9c73c042c0ab94d6371915aabda1b22fc0f493
 SHA256: 621765eddc989a1c598351b87f46a86422d97f2efa5e6d15018647eeb51737f2
-Section: Tweaks
-Description: Free Premium #VPN - Wi-Fi Hotspot Security
+
+Package: net.hollr2099.vpncatpp
+Name: VPN Cat++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on VPN cat master - express web proxy
+Maintainer: SarahH12099
 Author: SarahH12099
-Name: #VPN - Wi-Fi Hotspot Security++
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 117
+Filename: ./debs/VPNCat.deb
+Size: 3550
+MD5sum: 6edfcc4897d2df0400af20c8f90f4e67
+SHA1: 5a472f7fad65dd50dd062c561e0325a8bf4090a6
+SHA256: 104be59084138dbc2ff40c4946f3c64dd35f97d8d1f8b83901c2cee1241503b6
 
 Package: net.hollr2099.vpnproxymasterpp
-Version: 1.0.1.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: VPN Proxy Master++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium VPN Proxy Master
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.1.1
+Installed-Size: 136
 Filename: ./debs/VPNProxyMaster.deb
 Size: 5890
 MD5sum: 000e679d9febe4c1a11829a0126d7f75
 SHA1: c18bfccc1de7e1d9bdb3eadc61bc85df23f19fbb
 SHA256: 6b44961fadcbf8400ff49a06ade44ee7e68c1e6d6b3ea48f284d6e91e4d2672b
-Section: Tweaks
-Description: Free Premium VPN Proxy Master
-Author: SarahH12099
-Name: VPN Proxy Master++
 
 Package: net.hollr2099.weatherlivepp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Weather Live++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Weather Live
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
 Filename: ./debs/WeatherLive.deb
 Size: 4480
 MD5sum: 0f194b2fc2c0bbe5f5dc128d6ae51271
 SHA1: 5aa13242e6d4f91b2911c5badf652ead872f98da
 SHA256: 84710180f9944b702efc1aa2b535d67eb79212ade48cd1b8852aa5fba50967c0
-Section: Tweaks
-Description: Free Premium Weather Live
-Author: SarahH12099
-Name: Weather Live++
 
 Package: net.hollr2099.windypp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: Windy++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro Windy
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
 Filename: ./debs/Windy.deb
 Size: 3946
 MD5sum: 2b53c477d2c8b8765776e41c0ac6e4bf
 SHA1: 9e43c933430ce134e2af6a36c8a370197daecf98
 SHA256: 2a99b165919a019760c685cd3c543594333638a879ffc286edbef4f9a54bd662
-Section: Tweaks
-Description: Free Pro Windy
-Author: SarahH12099
-Name: Windy++
 
 Package: net.hollr2099.youcammakeuppp
-Version: 1.0.0.3
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: YouCam Makeup++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro YouCam Makeup
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.3
+Installed-Size: 117
 Filename: ./debs/YouCamMakeup.deb
 Size: 3792
 MD5sum: 4816b86f738650ab2b7138887a086c99
 SHA1: 5621d82e6e41b039c9185ed96b7389adb2611eaf
 SHA256: 07965a36281d796a752a023c3336fcfa962735e174e646a9bdd4842ac1e10dce
-Section: Tweaks
-Description: Free Pro YouCam Makeup
-Author: SarahH12099
-Name: YouCam Makeup++
 
 Package: net.hollr2099.youcamperfectpp
-Version: 1.0.0.4
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
+Name: YouCam Perfect++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Pro YouCam Perfect
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.4
+Installed-Size: 117
 Filename: ./debs/YouCamPerfect.deb
 Size: 4368
 MD5sum: 64e45e84fa7174ffffeeee6b688f645f
 SHA1: ee29e36e0ab3c97226c2209d163e57c96778fc1c
 SHA256: c5249a4b8bbc347c2e90c5772cb6dcc20b4d47fd4688eab46440968bdbac69dc
-Section: Tweaks
-Description: Free Pro YouCam Perfect
-Author: SarahH12099
-Name: YouCam Perfect++
 
 Package: net.hollr2099.youtubemusicpp
-Version: 1.0.2.8
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 372
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/YouTubeMusic.deb
-Size: 66208
-MD5sum: 63d0db6588142293fb43e5933c7de66a
-SHA1: b6c47136188e235875c253f9f07d75b5fbf04f9c
-SHA256: b05eb29b845b626ab24a57c01ebab330d64d21e8cb8c2c8308ba175411d49f4d
-Section: Tweaks
-Description: No ads, background playback, double tap to skip, audio only mode buttons, no get premium banner in account settings, no age check, no content check, no upsell notifications, no upsell popups on YouTube Music
-Author: SarahH12099
 Name: YouTube Music++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads, background playback, double tap to skip, audio only mode buttons, no get premium banner in account settings, no age check, no content check, no upsell notifications, no upsell popups on YouTube Music
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.2.9
+Installed-Size: 225
+Filename: ./debs/YouTubeMusic.deb
+Size: 44134
+MD5sum: 9ded466fad40a9604e7bc23e565a3069
+SHA1: bd9143adc555c4c7151d7a905285efa5251f0e13
+SHA256: fdd1546a6866b95f55d03ea1b1711e144a4733da310b2ac9ae07a712ec3e0c6a
 
 Package: net.hollr2099.zinitevipp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
+Name: ZiniTevi++
 Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No Ads and Bypass Ad Limit Tracking On ZiniTevi
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 136
 Filename: ./debs/ZiniTevi.deb
 Size: 3912
 MD5sum: f9b80565b82a4010311939a3b45c88a6
 SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
 SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
-Section: Tweaks
-Description: No Ads and Bypass Ad Limit Tracking On ZiniTevi
-Author: SarahH12099
-Name: ZiniTevi++
 

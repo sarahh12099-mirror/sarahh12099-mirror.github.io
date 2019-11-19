@@ -13,7 +13,7 @@ size=($(stat -c%s $name))
 md5=($(md5sum $name))
 sha1=($(sha1sum $name))
 sha256=($(sha256sum $name))
-echo "Filename: debs/$name" >> ../Packages
+echo "Filename: ./debs/$name" >> ../Packages
 echo "Size: "$size >> ../Packages
 echo "MD5sum: "$md5 >> ../Packages
 echo "SHA1: "$sha1 >> ../Packages
