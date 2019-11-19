@@ -158,6 +158,22 @@ MD5sum: e1fc0c0ab5a07ccd61f0a0cfa57ff81f
 SHA1: c9c18733614885ce5ff6124a7f746b2aa38a4e3b
 SHA256: a6c515a7295e4ae9bd7dd437d20d967f1cb7b5e61ca475763511eb85dfb873ba
 
+Package: net.hollr2099.boompp
+Name: Boom++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Free Premium Boom: Music Player & Equalizer
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 225
+Filename: ./debs/Boom.deb
+Size: 43726
+MD5sum: c20bfa01b8d00a15619acaff6d380df0
+SHA1: a129385e31f6179c8bfdace4ea31e6505dcf1dee
+SHA256: 4d1d494a328bad9c966179aa8ac8e7f270984311d80b7c3857c6a708b731d620
+
 Package: net.hollr2099.calmpp
 Name: Calm++
 Depends: mobilesubstrate, firmware (>= 10.0)
