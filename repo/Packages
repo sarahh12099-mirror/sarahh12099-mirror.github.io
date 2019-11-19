@@ -1187,13 +1187,13 @@ Description: No ads, background playback, double tap to skip, audio only mode bu
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.2.9
+Version: 1.0.3.0
 Installed-Size: 225
 Filename: ./debs/YouTubeMusic.deb
-Size: 44134
-MD5sum: 9ded466fad40a9604e7bc23e565a3069
-SHA1: bd9143adc555c4c7151d7a905285efa5251f0e13
-SHA256: fdd1546a6866b95f55d03ea1b1711e144a4733da310b2ac9ae07a712ec3e0c6a
+Size: 44760
+MD5sum: 5fe2b4dbb24c55d523f186bacd62db19
+SHA1: de7293976ba59ff0ab1e8f27c4a6d7fb4339b317
+SHA256: bcc2c323c357a541892a5b3f228035bf66cd4922cd86ff365220e9caccfd7a28
 
 Package: net.hollr2099.zinitevipp
 Name: ZiniTevi++
