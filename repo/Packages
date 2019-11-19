@@ -46,22 +46,6 @@ MD5sum: b8bc1eae70df75ec5299dc6a6cc336f2
 SHA1: 85891ea2e4c06d2374072fcc1ad8e76762cb40a4
 SHA256: 0dd1aed23bc9122e007d59984aec1b54901fac75afa4d39b38da31f9d7367807
 
-Package: net.hollr2099.activatorpp
-Name: Activator++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No Ads On Activator From Cydia
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.3
-Installed-Size: 117
-Filename: ./debs/Activator.deb
-Size: 4056
-MD5sum: b3f67b87b1cbf5114f98b78b67eff298
-SHA1: da27f96534d746afd5837ead61c5eeb0213866e4
-SHA256: bbd4ccf1090637cbb28e2511708a7fedfb70df3458af2eed02e96f3b91dbccc9
-
 Package: net.hollr2099.adguardpp
 Name: AdGuard++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -141,22 +125,6 @@ Size: 3826
 MD5sum: 7cf79fb19fbdb73acac6e06fcda99645
 SHA1: 1ac9d3d590e71f4448b5764bafb10c10f1ed6a28
 SHA256: 91a6d16238491aaf303bf71ee8ac17dba5516242e4252f0585303519e468fddb
-
-Package: net.hollr2099.appswitchergrid
-Name: AppSwitcher Grid
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
-Architecture: iphoneos-arm
-Description: Turns AppSwitcher into a 2x2 grid
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.2
-Installed-Size: 136
-Filename: ./debs/AppSwitcherGrid.deb
-Size: 2384
-MD5sum: 8fc5a0986dd1a664d0f583c7f8c906ea
-SHA1: 9196f25fbe2f889b0f0dc1bb1398e17ed6fb998c
-SHA256: 50611f487e52c005d66bcf7cdc89cb0d795a992b3be753e13a2463035278f0ba
 
 Package: net.hollr2099.audiomackpp
 Name: Audiomack++
@@ -709,23 +677,6 @@ MD5sum: 1eb099b7315902f9606d3139c1cb2cb2
 SHA1: 255826039f8389e7704f37a8a09066db05b30e50
 SHA256: 9ca00100ca086431605ba1749d1f3c1990eb493f708a03be294649f92dffdebf
 
-Package: net.hollr2099.modernstatusbar
-Name: Modern Status Bar
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
-Conflicts: io.sarahh12099.modernstatusbar
-Architecture: iphoneos-arm
-Description: More Modern Status Bar for iPhone
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.1
-Installed-Size: 69
-Filename: ./debs/ModernStatusBar.deb
-Size: 1964
-MD5sum: fffc23eca87a5b6a261c9a66c1061da0
-SHA1: 53d3a2f9248924e0473378110f9548834a0bbc83
-SHA256: f438153c5b5775b9a3fdd5e43e913d1439da2b894bc9d316e28f88c3ed310e95
-
 Package: net.hollr2099.myprivacypp
 Name: MyPrivacy++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -758,23 +709,6 @@ Size: 4044
 MD5sum: c67e27bf56d9d0988c1a34cdacfbc5bd
 SHA1: 44ecc2ce7654f67f6ee89ad9aedcdcb67384e829
 SHA256: fb9f3a359db83e04ba2c6736471f44fdf4a7582cd725bf43c2e802ddd3cff412
-
-Package: net.hollr2099.nodndlockscreen
-Name: No DND Lockscreen
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
-Conflicts: io.sarahh12099.nodndlockscreen
-Architecture: iphoneos-arm
-Description: No Do Not Disturb notification on lockscreen
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.1
-Installed-Size: 69
-Filename: ./debs/NoDNDLockscreen.deb
-Size: 2012
-MD5sum: 1ba8b7247c72dad02c1e45b64b6c96d3
-SHA1: 4d331e0d81fb70d9946e05aa07c09837b19dfcf7
-SHA256: acb3cdadb9fc1f577538abdb79fd82b4bf93af43576d67222d32ecfd2eec1da4
 
 Package: net.hollr2099.officesuitepp
 Name: OfficeSuite++
