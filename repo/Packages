@@ -303,22 +303,6 @@ MD5sum: 86d9ffb3dfad4e43371898c6a649aa09
 SHA1: 368dd8e6a315e57511fb4194dbaee9abf7289486
 SHA256: 201e9ba12067f6d6d21f4708348c7bc7c932de8e1087bb6725a54e404cef66e4
 
-Package: net.hollr2099.cydiaviewhiddenpackages
-Name: Cydia View Hidden Packages
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: View hidden packages on Cydia
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.1
-Installed-Size: 117
-Filename: ./debs/CydiaView.deb
-Size: 2534
-MD5sum: 4687a9ec0206cd81efbf4e1e971811f6
-SHA1: 5b2db96bf0f60dbd0b8a0fcf7fdc16a4137f37f7
-SHA256: d716eec74becfede559a5c18e12a4a6c450a954c71fa4e68b6a36702f0329993
-
 Package: net.hollr2099.darkroompp
 Name: Darkroom++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -497,22 +481,6 @@ MD5sum: 30c46cc1d8bb7b9ad87bd3890876084e
 SHA1: 42d4774860ff5843ecec9631800d51a32ad5b5c9
 SHA256: 84f1ef11c5e42dc76033bdb8c648e7f75d46872100c9b7ced4ba6709f8c3b7e0
 
-Package: net.hollr2099.happychickpp
-Name: Happy Chick++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No startup ad and no banner ad on Happy Chick Emulator
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.3
-Installed-Size: 117
-Filename: ./debs/HappyChick.deb
-Size: 3908
-MD5sum: 70bec5f5cd77dfb8961c7513d9bab08a
-SHA1: 011cff9b83a41c64803ac659c13e24b907a5fc71
-SHA256: 9bdf56b0009c8f766be397144eb22a4f382757068fabee8ac28408e3b4b030fc
-
 Package: net.hollr2099.infuse5pp
 Name: Infuse 5++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -658,23 +626,6 @@ Size: 3650
 MD5sum: 22fa6bed33ea650e1b7587abc19fbdef
 SHA1: 728be8a3f817c57a1143cacd98368203949064d4
 SHA256: b6d1fbed370fb6d874ba4eb179f642b9736242d86dfeaf47a488ad83d002a313
-
-Package: net.hollr2099.memoradopp
-Name: Memorado++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Conflicts: io.sarahh12099.memoradopp
-Architecture: iphoneos-arm
-Description: Free Premium Memorado
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.4
-Installed-Size: 69
-Filename: ./debs/Memorado.deb
-Size: 3432
-MD5sum: 7b154fba9556673a09398d0edf6e5f16
-SHA1: 969f774acf1be5a4c67fce1465e1cc43282df7dd
-SHA256: 8d632702f242ea260cebbcf64b9b5881511183f48ab7a17d2dde85766f5ba49c
 
 Package: net.hollr2099.merriamwebsterpp
 Name: Merriam-Webster++
