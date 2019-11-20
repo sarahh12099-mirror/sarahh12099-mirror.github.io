@@ -150,13 +150,13 @@ Description: Free Pro Bear
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
-Installed-Size: 117
+Version: 1.0.0.1
+Installed-Size: 225
 Filename: ./debs/Bear.deb
-Size: 3494
-MD5sum: e1fc0c0ab5a07ccd61f0a0cfa57ff81f
-SHA1: c9c18733614885ce5ff6124a7f746b2aa38a4e3b
-SHA256: a6c515a7295e4ae9bd7dd437d20d967f1cb7b5e61ca475763511eb85dfb873ba
+Size: 43642
+MD5sum: 7c313b0cf2f79972b5fe474dc055fccc
+SHA1: 1b612a83e407b1e261c7acbcc09d446b6545b26e
+SHA256: 4671bc00b501fa0a9c9975df53d2cc19fba34ade8ad10809d459c3786e15f442
 
 Package: net.hollr2099.boompp
 Name: Boom++
