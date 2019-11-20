@@ -1074,13 +1074,13 @@ Description: Free Premium VPN Proxy Master
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.1.1
-Installed-Size: 136
+Version: 1.0.1.2
+Installed-Size: 225
 Filename: ./debs/VPNProxyMaster.deb
-Size: 5890
-MD5sum: 000e679d9febe4c1a11829a0126d7f75
-SHA1: c18bfccc1de7e1d9bdb3eadc61bc85df23f19fbb
-SHA256: 6b44961fadcbf8400ff49a06ade44ee7e68c1e6d6b3ea48f284d6e91e4d2672b
+Size: 44630
+MD5sum: 17bc5096ec36b68d9e5902ea55cd9ff8
+SHA1: d402e9f7dd758e368ca2871b174486152f4f58e9
+SHA256: 09a5080a57d30dd38728e113a0b62311ae568ea694c899fd8ef25b5ee9c1d6c3
 
 Package: net.hollr2099.weatherlivepp
 Name: Weather Live++
