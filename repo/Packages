@@ -134,13 +134,13 @@ Description: Free Premium Audiomack
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.6
-Installed-Size: 136
+Version: 1.0.0.7
+Installed-Size: 225
 Filename: ./debs/Audiomack.deb
-Size: 3852
-MD5sum: a1b94ea592e4381ce0c71435a31bad6b
-SHA1: 5faacdcfdca37d1615e0cb6a841abf45bfeeb16e
-SHA256: c466bea8b0a32de408d8c4c368bd3a974e301293f1253dbfc7cef0f42b1af393
+Size: 43698
+MD5sum: 3cbf9324f206d9fb5bd24d106d9bfc97
+SHA1: b69dbde656d8a2750aa7478691b2bbf9ee9b3016
+SHA256: ad3545691fa77d6143dbab30aa4bcb74f0922d3dec3fff46bb0b632600071dbb
 
 Package: net.hollr2099.bearpp
 Name: Bear++
