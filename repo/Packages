@@ -134,13 +134,13 @@ Description: Free Premium Audiomack
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.7
+Version: 1.0.0.8
 Installed-Size: 225
 Filename: ./debs/Audiomack.deb
-Size: 43698
-MD5sum: 3cbf9324f206d9fb5bd24d106d9bfc97
-SHA1: b69dbde656d8a2750aa7478691b2bbf9ee9b3016
-SHA256: ad3545691fa77d6143dbab30aa4bcb74f0922d3dec3fff46bb0b632600071dbb
+Size: 43766
+MD5sum: d683ac9bf4490bf29188b3c675d22b70
+SHA1: e5e576bf8a86200322bf3f9d7b96a70111b21425
+SHA256: 61af77c805453290fbc577ffd246559e2d50832580c2de128ba3768478a1953b
 
 Package: net.hollr2099.bearpp
 Name: Bear++
@@ -150,13 +150,13 @@ Description: Free Pro Bear
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.1
+Version: 1.0.0.2
 Installed-Size: 225
 Filename: ./debs/Bear.deb
-Size: 43642
-MD5sum: 7c313b0cf2f79972b5fe474dc055fccc
-SHA1: 1b612a83e407b1e261c7acbcc09d446b6545b26e
-SHA256: 4671bc00b501fa0a9c9975df53d2cc19fba34ade8ad10809d459c3786e15f442
+Size: 43636
+MD5sum: 813867e54e69409d442b80a093dce339
+SHA1: ce3fcb08987ba3a5482b889924a7125c4f80a8a8
+SHA256: 9c3ec85945f1d781ceed6e4613eb6900a625865a56e9fed10eafedfca5463436
 
 Package: net.hollr2099.boompp
 Name: Boom++
@@ -166,13 +166,13 @@ Description: Free Premium Boom: Music Player & Equalizer
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
+Version: 1.0.0.1
 Installed-Size: 225
 Filename: ./debs/Boom.deb
-Size: 43726
-MD5sum: c20bfa01b8d00a15619acaff6d380df0
-SHA1: a129385e31f6179c8bfdace4ea31e6505dcf1dee
-SHA256: 4d1d494a328bad9c966179aa8ac8e7f270984311d80b7c3857c6a708b731d620
+Size: 43664
+MD5sum: 4c6a1c77715dca3987f69b0c2d5e0159
+SHA1: 232c7898b26591171989a7d09c396c6169341f01
+SHA256: 098fc53c00a5a3cd61f4b8a8bee520ff4fb2773326eab1a316f96a988d902bf6
 
 Package: net.hollr2099.calmpp
 Name: Calm++
@@ -1074,13 +1074,13 @@ Description: Free Premium VPN Proxy Master
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.1.2
+Version: 1.0.1.3
 Installed-Size: 225
 Filename: ./debs/VPNProxyMaster.deb
-Size: 44630
-MD5sum: 17bc5096ec36b68d9e5902ea55cd9ff8
-SHA1: d402e9f7dd758e368ca2871b174486152f4f58e9
-SHA256: 09a5080a57d30dd38728e113a0b62311ae568ea694c899fd8ef25b5ee9c1d6c3
+Size: 44654
+MD5sum: 77aa004ed3b9caf9eae9310312fe712b
+SHA1: 88956c536250f9d75a822c011de794e4d09e80a1
+SHA256: 6f55ac1f4a0c97e8d5a63f5d1cad73e9869e141039a7d6987199b62c749c5908
 
 Package: net.hollr2099.weatherlivepp
 Name: Weather Live++
