@@ -530,6 +530,22 @@ MD5sum: 448efcc0670bed0a6a41906a77ecc13f
 SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
 SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
 
+Package: net.hollr2099.jiosaavnpp
+Name: JioSaavn++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads, high quality enabled.
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 225
+Filename: ./debs/JioSaavn.deb
+Size: 43844
+MD5sum: 27bb5ab778e7e18da0e520760f519be3
+SHA1: f0834a5687783d8c25af3f5f13733cfe6ec32438
+SHA256: b3d3958ae2e6ef5cce8a0e1ffbb823d28032cad5ba7021f00cf5999fce08dcf1
+
 Package: net.hollr2099.kinemasterpp
 Name: KineMaster++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -888,6 +904,22 @@ Size: 3532
 MD5sum: 9a4408f0f0948c42bdea692dcb050ae1
 SHA1: 51271b90cd79ee5e325a511eafaeafdc8a8200d2
 SHA256: 9a65d8d011d5a1933b36ff98a138e6a031cd2052c25b39c8b0fc73f419c638b2
+
+Package: net.hollr2099.soundcloudpp
+Name: SoundCloud++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads, high quality enabled, dev mode enabled.
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 225
+Filename: ./debs/SoundCloud.deb
+Size: 43912
+MD5sum: 946576fcd3872d19fd15c02d7770fd29
+SHA1: 931ae51866b9d7e54236875c492dc260cc7c2167
+SHA256: e5d9d8cc68431b44e3ca6c4e3003d4c25c746c4b9ee3ce11aae7d91354abf4f3
 
 Package: net.hollr2099.speedtestpp
 Name: Speedtest++
