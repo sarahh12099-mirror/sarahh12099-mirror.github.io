@@ -1182,17 +1182,17 @@ Package: net.hollr2099.youtubemusicpp
 Name: YouTube Music++
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Description: No ads, background playback, double tap to skip, audio only mode buttons, no get premium banner in account settings, no age check, no content check, no upsell notifications, no upsell popups on YouTube Music
+Description: No ads, background playback, double tap to skip, audio only mode buttons, carplay support, no get premium banner in account settings, no age check, no content check, no upsell notifications, no upsell popups on YouTube Music
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.3.1
+Version: 1.0.3.2
 Installed-Size: 225
 Filename: ./debs/YouTubeMusic.deb
-Size: 44816
-MD5sum: 94be9496dbf86f44fa229ecbff26d651
-SHA1: 5774a6c32faf07e1af258c3631288ec68f2b772e
-SHA256: b87880ad1149c0f5dc449898a92907511c21983a6a63742d88be43855593bc87
+Size: 44860
+MD5sum: fdad36a5a23bbc89c2c42d521642d972
+SHA1: 1835611b3a5fd428fca2fac84cc0c86cb7c0ebe9
+SHA256: b7175a41d8e40185901a790e31109f5cdb9296802b735ff8c26f46d4f2eac03c
 
 Package: net.hollr2099.zinitevipp
 Name: ZiniTevi++
