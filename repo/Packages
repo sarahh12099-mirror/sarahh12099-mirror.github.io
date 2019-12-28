@@ -538,13 +538,13 @@ Description: No ads, high quality enabled.
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
+Version: 1.0.0.1
 Installed-Size: 225
 Filename: ./debs/JioSaavn.deb
-Size: 43844
-MD5sum: 27bb5ab778e7e18da0e520760f519be3
-SHA1: f0834a5687783d8c25af3f5f13733cfe6ec32438
-SHA256: b3d3958ae2e6ef5cce8a0e1ffbb823d28032cad5ba7021f00cf5999fce08dcf1
+Size: 43908
+MD5sum: 5813169545171420e602ab7eca5edbda
+SHA1: 9e818e5482c9eaf7b21c8ddf3d04c490134936c9
+SHA256: 09850ff6a79fcb4fe13458c978e6cdee53cbcd80451edafc507735c10d3cdce8
 
 Package: net.hollr2099.kinemasterpp
 Name: KineMaster++
@@ -913,13 +913,13 @@ Description: No ads, high quality enabled, dev mode enabled.
 Maintainer: SarahH12099
 Author: SarahH12099
 Section: Tweaks
-Version: 1.0.0.0
+Version: 1.0.0.1
 Installed-Size: 225
 Filename: ./debs/SoundCloud.deb
-Size: 43912
-MD5sum: 946576fcd3872d19fd15c02d7770fd29
-SHA1: 931ae51866b9d7e54236875c492dc260cc7c2167
-SHA256: e5d9d8cc68431b44e3ca6c4e3003d4c25c746c4b9ee3ce11aae7d91354abf4f3
+Size: 43938
+MD5sum: be690e88fd51e68cecc497394c7e9e8c
+SHA1: 3de6a37fa27d90a4fbb0c95fc8d8f3cad8824d7f
+SHA256: 665a020c15cecbfec48128f574439dffb38077be0ecdcbc65c54753fe65a4f94
 
 Package: net.hollr2099.speedtestpp
 Name: Speedtest++
